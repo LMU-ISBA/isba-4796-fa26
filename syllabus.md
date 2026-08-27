@@ -5,14 +5,15 @@ Fall 2026
 
 | | |
 |---|---|
-| Format | Asynchronous modules, with required synchronous sessions |
+| Format | In person |
 | Credit hours | 1 |
-| Synchronous sessions | Four joint sessions with ISBA 3720, one individual meeting, three sprint cycle meetings |
-| Location | Joint sessions on campus with ISBA 3720. Meetings on Zoom at https://lmula.zoom.us/my/lontok |
+| Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM |
+| Room | Hilton 106. Joint sessions meet with ISBA 3720 in Hilton 115 |
 
-There is no weekly class meeting. Every synchronous commitment in this course is
-listed in the schedule below. Exact dates and times for the four joint sessions
-are set with ISBA 3720 and posted in Brightspace by the end of week 1.
+**This course does not meet every Tuesday and Thursday.** It is one unit, and it
+uses seven of those slots. Keep the time free on your schedule, and check the
+schedule below for the dates we actually meet. Everything in that table is
+required. The weeks in between are yours to work in.
 
 ## Course description
 
@@ -73,13 +74,13 @@ subscription for the AI coding agent.
 
 | # | Deliverable | What you submit | Due |
 |---|---|---|---|
-| 1 | Self-discovery interview | The Markdown file from your Claude Code interview | Wed Sep 9 |
-| 2 | Development environment and capstone repository | Your own repository, built from scratch, plus a short write-up of the choices you made | Wed Sep 23 |
-| 3 | Scrum Open Assessment | Your completed assessment from scrum.org | Wed Oct 7 |
-| 4 | Stakeholder confirmation | Written confirmation from your stakeholder that you are serving the right person, solving the right problem, and measuring the right thing | Wed Oct 28 |
-| 5 | Sprint cycle | Observed across your three sprint meetings in weeks 10 to 12 | Weeks 10 to 12 |
-| 6 | Proposal defense | Live, at the week 14 joint session | Week 14 |
-| 7 | PRD | Your capstone proposal, in your project repository | Fri Dec 11 |
+| 1 | Self-discovery interview | The Markdown file from your Claude Code interview | Tue Sep 15 |
+| 2 | Development environment and capstone repository | Your own repository, built from scratch, plus a short write-up of the choices you made | Thu Sep 24 |
+| 3 | Scrum Open Assessment | Your completed assessment from scrum.org | Thu Oct 8 |
+| 4 | Stakeholder confirmation | Written confirmation from your stakeholder that you are serving the right person, solving the right problem, and measuring the right thing | Tue Nov 3 |
+| 5 | Sprint cycle | Observed across your three sprint meetings, Nov 5 to Nov 19 | Nov 5 to Nov 19 |
+| 6 | Proposal defense | Live, at the joint session | Tue Dec 1 |
+| 7 | PRD | Draft Tue Dec 1, final in your project repository | Thu Dec 10 |
 
 Deliverables 1, 2, and 3 are individual. Deliverables 4 through 7 belong to your
 team, or to you alone if your capstone is an internship.
@@ -130,37 +131,47 @@ way a stakeholder is.
 
 ## Schedule
 
-Fall 2026 instruction runs Aug 31 to Dec 11. Each week has an asynchronous module
-to work through on your own time. The rows below with a session or meeting are
-the required synchronous commitments.
+Fall 2026 instruction runs Aug 31 to Dec 11. **We meet on the seven dates marked
+below**, in the Tuesday/Thursday 9:55 to 11:35 slot. The other weeks have an
+asynchronous module to work through on your own time.
 
-| Week | Dates | Module | Synchronous | Due |
+| Week | Dates | We meet | Module | Due |
 |---|---|---|---|---|
-| 1 | Aug 31 to Sep 4 | Onboarding: AI Dev Workflow Tutorial and self-discovery interview | none | none |
-| 2 | Sep 7 to 11 | Framing a problem worth solving | **Joint with ISBA 3720** | Self-discovery interview (Wed Sep 9) |
-| 3 | Sep 14 to 18 | Scrum foundations: read the Scrum Guide | Individual meeting, 30 min | none |
-| 4 | Sep 21 to 25 | Scope and feasibility | none | Dev environment and capstone repo (Wed Sep 23). Internship secured or project assigned, and teams formed, by Fri Sep 25 |
-| 5 | Sep 28 to Oct 2 | Discovery and stakeholder engagement | **Joint with ISBA 3720** | none |
-| 6 | Oct 5 to 9 | Scrum, continued: sprints, roles, artifacts | none | Scrum Open Assessment (Wed Oct 7) |
-| 7 | Oct 12 to 16 | Build versus buy, and hosting | none | none |
-| 8 | Oct 19 to 23 | Writing the PRD | **Joint with ISBA 3720** | none |
-| 9 | Oct 26 to 30 | Measuring success | none | Stakeholder confirmation (Wed Oct 28) |
-| 10 | Nov 2 to 6 | Planning your sprint | Sprint planning | none |
-| 11 | Nov 9 to 13 | Running your sprint | Stand-up | none |
-| 12 | Nov 16 to 20 | Closing your sprint | Sprint review | none |
-| 13 | Nov 23 to 27 | Thanksgiving. No course activity | none | none |
-| 14 | Nov 30 to Dec 4 | Defending the proposal | **Joint with ISBA 3720**, proposal defense | PRD draft (Wed Dec 2) |
-| 15 | Dec 7 to 11 | Finishing the PRD, handoff to ISBA 4797 | none | Final PRD (Fri Dec 11) |
+| 1 | Aug 31 to Sep 4 | no | Onboarding: AI Dev Workflow Tutorial and self-discovery interview | none |
+| 2 | Sep 7 to 11 | **Thu Sep 10, joint with ISBA 3720, Hilton 115** | Framing a problem worth solving | none |
+| 3 | Sep 14 to 18 | Individual meeting, 30 min, booked | Scrum foundations: read the Scrum Guide | Self-discovery interview (Tue Sep 15) |
+| 4 | Sep 21 to 25 | no | Scope and feasibility | Dev environment and capstone repo (Thu Sep 24) |
+| 5 | Sep 28 to Oct 2 | **Thu Oct 1, joint with ISBA 3720, Hilton 115** | Discovery and stakeholder engagement | none |
+| 6 | Oct 5 to 9 | no | Scrum, continued: sprints, roles, artifacts | Scrum Open Assessment (Thu Oct 8) |
+| 7 | Oct 12 to 16 | no | Build versus buy, and hosting | none |
+| 8 | Oct 19 to 23 | no | Choosing your capstone project | **Internship secured or project assigned (Thu Oct 22)** |
+| 9 | Oct 26 to 30 | **Thu Oct 29, joint with ISBA 3720, Hilton 115** | Writing the PRD | Teams form (Tue Oct 27) |
+| 10 | Nov 2 to 6 | **Thu Nov 5, sprint planning, Hilton 106** | Planning your sprint | Stakeholder confirmation (Tue Nov 3) |
+| 11 | Nov 9 to 13 | **Thu Nov 12, stand-up, Hilton 106** | Running your sprint | none |
+| 12 | Nov 16 to 20 | **Thu Nov 19, sprint review, Hilton 106** | Closing your sprint | none |
+| 13 | Nov 23 to 27 | no | Thanksgiving. No course activity | none |
+| 14 | Nov 30 to Dec 4 | **Tue Dec 1, proposal defense, joint with ISBA 3720, Hilton 115** | Defending the proposal | PRD draft (Tue Dec 1) |
+| 15 | Dec 7 to 11 | no | Finishing the PRD, handoff to ISBA 4797 | Final PRD (Thu Dec 10) |
+
+**Why the internship deadline sits where it does.** If you want to use an
+internship as your capstone, you have until Thu Oct 22 to secure one. That is
+seven weeks of searching, and it is deliberately after the discovery session on
+Oct 1, so you learn how to interrogate a problem before you decide whether a
+given internship is one worth building on. If you do not have an internship by
+Oct 22, you are assigned a project, and you still have seven weeks to do the
+proposal.
 
 **Calendar notes.** No class activity on Labor Day (Mon Sep 7), Autumn Day
 (Fri Oct 9), or Thanksgiving (Wed Nov 25 to Fri Nov 27). Fri Sep 4 is the last
-day to add or drop without a W. Fri Nov 13 is the last day to withdraw, which
-falls in your sprint week, so you will have had sprint planning and a stand-up
-before you have to decide.
+day to add or drop without a W. Fri Nov 13 is the last day to withdraw, by which
+point you will have had sprint planning and a stand-up.
 
-**Book your meetings.** Individual meeting in week 3 at
-https://calendly.com/greg-lontok/30min. Sprint meetings in weeks 10 to 12 at
-https://calendly.com/greg-lontok/45min.
+**Sprint meetings** happen in our scheduled slot in Hilton 106. Each team books a
+time within it. If your capstone is an internship you are working solo, you run
+your sprint cycle on your own and meet me alone.
+
+**Your individual meeting** in week 3 is 30 minutes, in Hilton 114 or on Zoom.
+Book at https://calendly.com/greg-lontok/30min
 
 ## Work load expectations
 
@@ -236,14 +247,14 @@ emergency, and missing it scores zero on that component. It is a joint session
 with another course, so there is no second sitting to move you to. If something
 genuine happens, tell me and we will work it out.
 
-## How you access the course, interact, and get feedback
+## How the course runs between sessions
 
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-**Interaction.** The joint sessions and your meetings are where most of the
-teaching happens live. Between them, Teams is the fastest way to reach me, and
-office hours are bookable at the Calendly links above.
+**Interaction.** The seven sessions are where the teaching happens. Between them,
+Teams is the fastest way to reach me, and office hours are bookable at the
+Calendly link above.
 
 **Feedback.** You get feedback on each deliverable within one week of its due
 date. Sprint cycle and proposal defense feedback is given verbally at the meeting
