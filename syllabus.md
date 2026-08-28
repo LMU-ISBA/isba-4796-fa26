@@ -85,8 +85,9 @@ subscription for the AI coding agent.
 Deliverables 1, 2, and 3 are individual. Deliverables 4 through 7 belong to your
 team, or to you alone if your capstone is an internship.
 
-**Deliverable 2 is not the tutorial.** You will work through the AI Dev Workflow
-Tutorial as onboarding, and the tutorial is where you learn the toolchain. What
+**Deliverable 2 is not the tutorial.** You will work through the
+[AI Dev Workflow Tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial) as
+onboarding, and the tutorial is where you learn the toolchain. What
 is graded is whether you can then do it again for your own project: your own
 repository, your own environment, set up from nothing, with your reasons written
 down. Cloning the tutorial's repo does not demonstrate that, and it is the
