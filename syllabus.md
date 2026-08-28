@@ -93,6 +93,9 @@ repository, your own environment, set up from nothing, with your reasons written
 down. Cloning the tutorial's repo does not demonstrate that, and it is the
 difference between having followed instructions and being able to start.
 
+The tutorial itself is not submitted and carries no points. Work through it
+before Deliverable 2 is due.
+
 ## Grading
 
 | Component | Points |
