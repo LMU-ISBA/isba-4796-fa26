@@ -16,13 +16,13 @@ those sessions. Keep the time free and come on these dates.
 
 | Date | What | Room |
 |---|---|---|
-| Thu Sep 10 | Framing a problem worth solving, joint with ISBA 3720 | Hilton 115 |
-| Thu Oct 1 | Discovery and stakeholder engagement, joint with ISBA 3720 | Hilton 115 |
-| Thu Oct 29 | Writing the PRD, joint with ISBA 3720 | Hilton 115 |
+| Thu Sep 10 | Framing a problem worth solving, joint with ISBA 3720 | Zoom |
+| Thu Oct 1 | Discovery and stakeholder engagement, joint with ISBA 3720 | Zoom |
+| Thu Oct 29 | Writing the PRD, joint with ISBA 3720 | Zoom |
 | Thu Nov 5 | Sprint planning | Hilton 106 |
 | Thu Nov 12 | Stand-up | Hilton 106 |
 | Thu Nov 19 | Sprint review | Hilton 106 |
-| Tue Dec 1 | Proposal defense, joint with ISBA 3720 | Hilton 115 |
+| Tue Dec 1 | Proposal defense, joint with ISBA 3720 | Zoom |
 
 Plus one 30-minute individual meeting in week 3, which you book.
 

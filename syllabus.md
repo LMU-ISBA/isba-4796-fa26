@@ -8,7 +8,7 @@ Fall 2026
 | Format | In person |
 | Credit hours | 1 |
 | Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM |
-| Room | Hilton 106. Joint sessions meet with ISBA 3720 in Hilton 115 |
+| Room | Hilton 106. The four joint sessions run on Zoom while ISBA 3720 meets in person |
 
 **This course does not meet every Tuesday and Thursday.** It is one unit, and it
 uses seven of those slots. Keep the time free on your schedule, and check the
@@ -139,19 +139,19 @@ asynchronous module to work through on your own time.
 | Week | Dates | We meet | Module | Due |
 |---|---|---|---|---|
 | 1 | Aug 31 to Sep 4 | no | Onboarding: AI Dev Workflow Tutorial and self-discovery interview | none |
-| 2 | Sep 7 to 11 | **Thu Sep 10, joint with ISBA 3720, Hilton 115** | Framing a problem worth solving | none |
+| 2 | Sep 7 to 11 | **Thu Sep 10, joint with ISBA 3720, on Zoom** | Framing a problem worth solving | none |
 | 3 | Sep 14 to 18 | Individual meeting, 30 min, booked | Scrum foundations: read the Scrum Guide | Self-discovery interview (Tue Sep 15) |
 | 4 | Sep 21 to 25 | no | Scope and feasibility | Dev environment and capstone repo (Thu Sep 24) |
-| 5 | Sep 28 to Oct 2 | **Thu Oct 1, joint with ISBA 3720, Hilton 115** | Discovery and stakeholder engagement | none |
+| 5 | Sep 28 to Oct 2 | **Thu Oct 1, joint with ISBA 3720, on Zoom** | Discovery and stakeholder engagement | none |
 | 6 | Oct 5 to 9 | no | Scrum, continued: sprints, roles, artifacts | Scrum Open Assessment (Thu Oct 8) |
 | 7 | Oct 12 to 16 | no | Build versus buy, and hosting | none |
 | 8 | Oct 19 to 23 | no | Choosing your capstone project | **Internship secured or project assigned (Thu Oct 22)** |
-| 9 | Oct 26 to 30 | **Thu Oct 29, joint with ISBA 3720, Hilton 115** | Writing the PRD | Teams form (Tue Oct 27) |
+| 9 | Oct 26 to 30 | **Thu Oct 29, joint with ISBA 3720, on Zoom** | Writing the PRD | Teams form (Tue Oct 27) |
 | 10 | Nov 2 to 6 | **Thu Nov 5, sprint planning, Hilton 106** | Planning your sprint | Stakeholder confirmation (Tue Nov 3) |
 | 11 | Nov 9 to 13 | **Thu Nov 12, stand-up, Hilton 106** | Running your sprint | none |
 | 12 | Nov 16 to 20 | **Thu Nov 19, sprint review, Hilton 106** | Closing your sprint | none |
 | 13 | Nov 23 to 27 | no | Thanksgiving. No course activity | none |
-| 14 | Nov 30 to Dec 4 | **Tue Dec 1, proposal defense, joint with ISBA 3720, Hilton 115** | Defending the proposal | PRD draft (Tue Dec 1) |
+| 14 | Nov 30 to Dec 4 | **Tue Dec 1, proposal defense, joint with ISBA 3720, on Zoom** | Defending the proposal | PRD draft (Tue Dec 1) |
 | 15 | Dec 7 to 11 | no | Finishing the PRD, handoff to ISBA 4797 | Final PRD (Thu Dec 10) |
 
 **Why the internship deadline sits where it does.** If you want to use an
@@ -166,6 +166,12 @@ proposal.
 (Fri Oct 9), or Thanksgiving (Wed Nov 25 to Fri Nov 27). Fri Sep 4 is the last
 day to add or drop without a W. Fri Nov 13 is the last day to withdraw, by which
 point you will have had sprint planning and a stand-up.
+
+**The four joint sessions run hybrid.** ISBA 3720 meets in person and you join
+on Zoom at https://lmula.zoom.us/my/lontok, in our scheduled slot. You are on
+camera and you participate, so treat it as a class you are attending rather than
+a stream you are watching. The proposal defense in week 14 is one of these, and
+you will be presenting to a room you are not standing in.
 
 **Sprint meetings** happen in our scheduled slot in Hilton 106. Each team books a
 time within it. If your capstone is an internship you are working solo, you run
