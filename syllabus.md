@@ -98,17 +98,19 @@ before Deliverable 2 is due.
 
 ## Grading
 
-| Component | Points |
-|---|---|
-| Self-discovery interview | 5 |
-| Development environment and capstone repository | 15 |
-| Scrum Open Assessment | 5 |
-| Stakeholder confirmation | 15 |
-| Sprint cycle | 15 |
-| Proposal defense | 15 |
-| PRD | 25 |
-| Meeting participation | 5 |
-| **Total** | **100** |
+A 1000-point scheme. Every point is a tenth of a percent.
+
+| Component | Points | % |
+|---|---:|---:|
+| Self-discovery interview | 50 | 5.0 |
+| Development environment and capstone repository | 150 | 15.0 |
+| Scrum Open Assessment | 50 | 5.0 |
+| Stakeholder confirmation | 150 | 15.0 |
+| Sprint cycle | 150 | 15.0 |
+| Proposal defense | 150 | 15.0 |
+| PRD | 250 | 25.0 |
+| Meeting participation | 50 | 5.0 |
+| **Total** | **1000** | **100** |
 
 **Grade scale:** A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82),
 C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
@@ -126,7 +128,7 @@ what you submit.
 **The sprint cycle** is outcome 4. You plan a sprint, run it, hold a stand-up in
 the middle, and review it at the end, with me in the room. A quiz can tell me you
 have read the Scrum Guide. Only running one tells me you can run one, which is
-why the Scrum Open Assessment is now worth 5 rather than 10.
+why the Scrum Open Assessment is now worth 50 rather than 100.
 
 **The proposal defense** is outcome 3. You explain your problem and your proposed
 solution to a room that has not read your PRD, without notes. The ISBA 3720
