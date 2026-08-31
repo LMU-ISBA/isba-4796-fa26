@@ -228,7 +228,8 @@ Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
 **Interaction.** Between the eight sessions, Teams is the fastest way to reach
-me, and office hours are bookable at the Calendly link above.
+me, and office hours are bookable at
+[https://calendly.com/greg-lontok](https://calendly.com/greg-lontok).
 
 **Feedback.** You get feedback on each deliverable within one week of its due
 date. Sprint cycle and sprint review feedback is given verbally at the meeting
