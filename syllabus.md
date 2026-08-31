@@ -8,10 +8,10 @@ Fall 2026
 | Format | In person |
 | Credit hours | 1 |
 | Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM |
-| Room | Hilton 106. The four joint sessions run on Zoom while ISBA 3720 meets in person |
+| Room | Hilton 106. The joint sessions with ISBA 3720 run hybrid; see the schedule and the note below it |
 
 **This course does not meet every Tuesday and Thursday.** It is one unit, and it
-uses seven of those slots. Keep the time free on your schedule, and check the
+uses eight of those slots. Keep the time free on your schedule, and check the
 schedule below for the dates we actually meet. Everything in that table is
 required. The weeks in between are yours to work in.
 
@@ -22,7 +22,7 @@ proposal, expressed as a product requirements document, a development
 environment and project repository you built yourself, and enough Scrum to run
 the first sprint of ISBA 4797.
 
-Four sessions are held jointly with ISBA 3720, Systems Analysis and Design, which
+Five sessions are held jointly with ISBA 3720, Systems Analysis and Design, which
 also produces a capstone proposal. You can satisfy the proposal requirement
 through this course, through ISBA 3720, or through the one-unit CAPSUN proposal
 course. The joint sessions mean the two cohorts learn the same method and can
@@ -137,13 +137,13 @@ way a stakeholder is.
 
 ## Schedule
 
-Fall 2026 instruction runs Aug 31 to Dec 11. **We meet on the seven dates marked
+Fall 2026 instruction runs Aug 31 to Dec 11. **We meet on the eight dates marked
 below**, in the Tuesday/Thursday 9:55 to 11:35 slot. The other weeks have an
 asynchronous module to work through on your own time.
 
 | Week | Dates | We meet | Module | Due |
 |---|---|---|---|---|
-| 1 | Aug 31 to Sep 4 | no | Onboarding: AI Dev Workflow Tutorial and self-discovery interview | none |
+| 1 | Aug 31 to Sep 4 | **Thu Sep 3, joint with ISBA 3720, in Hilton 106** | What the capstone expects of you, then this syllabus. Onboarding on your own: AI Dev Workflow Tutorial and self-discovery interview | none |
 | 2 | Sep 7 to 11 | **Thu Sep 10, joint with ISBA 3720, on Zoom** | Framing a problem worth solving | none |
 | 3 | Sep 14 to 18 | Individual meeting, 30 min, booked | Scrum foundations: read the Scrum Guide | Self-discovery interview (Tue Sep 15) |
 | 4 | Sep 21 to 25 | no | Scope and feasibility | Dev environment and capstone repo (Thu Sep 24) |
@@ -172,11 +172,16 @@ proposal.
 day to add or drop without a W. Fri Nov 13 is the last day to withdraw, by which
 point you will have had sprint planning and a stand-up.
 
-**The four joint sessions run hybrid.** ISBA 3720 meets in person and you join
-on Zoom at https://lmula.zoom.us/my/lontok, in our scheduled slot. You are on
-camera and you participate, so treat it as a class you are attending rather than
-a stream you are watching. The proposal defense in week 14 is one of these, and
-you will be presenting to a room you are not standing in.
+**Four of the five joint sessions run hybrid.** ISBA 3720 meets in person and
+you join on Zoom at https://lmula.zoom.us/my/lontok, in our scheduled slot. You
+are on camera and you participate, so treat it as a class you are attending
+rather than a stream you are watching. The proposal defense in week 14 is one of
+these, and you will be presenting to a room you are not standing in.
+
+**Thu Sep 3 runs the other way around.** You are in Hilton 106 and ISBA 3720
+joins us on Zoom. We spend the first part of the slot together on what the
+capstone expects of you, then they drop off and we spend the rest on this
+syllabus. Come to the room.
 
 **Sprint meetings** happen in our scheduled slot in Hilton 106. Each team books a
 time within it. If your capstone is an internship you are working solo, you run
@@ -221,7 +226,7 @@ plan.
 
 ## Attendance and participation
 
-Your scheduled commitments are the four joint sessions with ISBA 3720, your
+Your scheduled commitments are the five joint sessions with ISBA 3720, your
 individual meeting in week 3, and your three sprint cycle meetings.
 
 If you feel ill, stay home. Rest, and keep everyone else healthy.
@@ -264,7 +269,7 @@ genuine happens, tell me and we will work it out.
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-**Interaction.** The seven sessions are where the teaching happens. Between them,
+**Interaction.** The eight sessions are where the teaching happens. Between them,
 Teams is the fastest way to reach me, and office hours are bookable at the
 Calendly link above.
 
