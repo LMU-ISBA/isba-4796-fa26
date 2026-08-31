@@ -4,12 +4,12 @@ Loyola Marymount University, College of Business Administration
 Fall 2026
 
 
-|                |                                                                                                 |
-| -------------- | ----------------------------------------------------------------------------------------------- |
-| Format         | In person                                                                                       |
-| Credit hours   | 1                                                                                               |
+|                |                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------- |
+| Format         | In person                                                                                    |
+| Credit hours   | 1                                                                                            |
 | Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM. We meet on Thursdays only, and not every Thursday. |
-| Room           | Hilton 106, every session. ISBA 3720 joins the two joint sessions on Zoom                       |
+| Room           | Hilton 106, every session. ISBA 3720 joins the two joint sessions on Zoom                    |
 
 
 ## Course description
@@ -57,7 +57,7 @@ By the end of this course you will be able to:
 
 ## Required materials
 
-The Scrum Guide is free at [https://scrumguides.org/](https://scrumguides.org/) and you will receive links to other online material.
+The Scrum Guide is free at [https://scrumguides.org/](https://scrumguides.org/), and you will receive links to other online material.
 
 The one thing you pay for in this course is a Claude Pro subscription for the
 AI coding agent. It is $20 a month. You need it in week 1, because the
@@ -67,9 +67,6 @@ months, or about $80. There is no student discount, and the annual plan bills
 $200 upfront, so monthly is the cheaper way to take one semester.
 
 ## Deliverables
-
-What you submit for each, in the order they come due. The dates are in the
-schedule.
 
 - Self-discovery interview - the Markdown file from your Claude Code interview
 - AI Dev Workflow Tutorial - your public repository URL, your live Streamlit
@@ -128,23 +125,23 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 ## Schedule
 
 
-| Week | Dates           | We meet                                             | Module                                                                                                                                                   | Due                                                                          |
-| ---- | --------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1    | Aug 31 to Sep 4 | **Thu Sep 3, joint with ISBA 3720, in Hilton 106**  | What the capstone expects of you, then this syllabus. You get the practice case. On your own: install Claude Code and start the self-discovery interview | none                                                                         |
-| 2    | Sep 7 to 11     | **Individual meeting, 15 min, booked**              | Self-discovery, and the AI Dev Workflow Tutorial                                                                                                         | Self-discovery interview (Tue Sep 8)                                         |
-| 3    | Sep 14 to 18    | no                                                  | Scrum foundations: read the Scrum Guide                                                                                                                  | AI Dev Workflow Tutorial (Tue Sep 15)                                        |
-| 4    | Sep 21 to 25    | **Thu Sep 24, Hilton 106**                          | Framing a problem worth solving, and the interview it exposes                                                                                            | none                                                                         |
-| 5    | Sep 28 to Oct 2 | **Thu Oct 1, Hilton 106**                           | Discovery and stakeholder engagement                                                                                                                     | none                                                                         |
-| 6    | Oct 5 to 9      | no                                                  | Scrum, continued: drilling the Guide                                                                                                                     | Scrum Open Assessment (Thu Oct 8)                                            |
-| 7    | Oct 12 to 16    | no                                                  | Working with an AI coding agent                                                                                                                          | none                                                                         |
-| 8    | Oct 19 to 23    | no                                                  | Scope, non-scope, and success measures. Choosing your capstone project                                                                                   | **Internship secured (Thu Oct 22)**                                          |
-| 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                          | Writing the PRD                                                                                                                                          | Practice wiki (Thu Oct 29)                                                   |
-| 10   | Nov 2 to 6      | no                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
-| 11   | Nov 9 to 13     | **Thu Nov 12, joint with ISBA 3720, in Hilton 106** | Agile and Scrum in practice. Project briefs go out and teams form                                                                                        | **Projects assigned, teams form (Thu Nov 12)**                               |
-| 12   | Nov 16 to 20    | **Thu Nov 19, sprint planning, Hilton 106**         | Planning your sprint                                                                                                                                     | Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19) |
-| 13   | Nov 23 to 27    | no                                                  | Thanksgiving. Your sprint runs, but we do not meet                                                                                                       | none                                                                         |
-| 14   | Nov 30 to Dec 4 | **Thu Dec 3, stand-up, Hilton 106**                 | Running your sprint                                                                                                                                      | PRD draft (Thu Dec 3)                                                        |
-| 15   | Dec 7 to 11     | **Thu Dec 10, sprint review, Hilton 106**           | Closing your sprint, the retrospective, and handoff to ISBA 4797                                                                                         | Sprint review, capstone wiki, and final PRD (Thu Dec 10)                     |
+| Week | Dates           | We meet                                                                             | Module                                                                                                                                                   | Due                                                                          |
+| ---- | --------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1    | Aug 31 to Sep 4 | **Thu Sep 3, joint with ISBA 3720, in Hilton 106**                                  | What the capstone expects of you, then this syllabus. You get the practice case. On your own: install Claude Code and start the self-discovery interview | none                                                                         |
+| 2    | Sep 7 to 11     | **15-min individual meeting.** [Book here.](https://calendly.com/greg-lontok/15min) | Self-discovery, and the AI Dev Workflow Tutorial                                                                                                         | Self-discovery interview (Tue Sep 8)                                         |
+| 3    | Sep 14 to 18    | no                                                                                  | Scrum foundations: read the Scrum Guide                                                                                                                  | AI Dev Workflow Tutorial (Tue Sep 15)                                        |
+| 4    | Sep 21 to 25    | **Thu Sep 24, Hilton 106**                                                          | Framing a problem worth solving, and the interview it exposes                                                                                            | none                                                                         |
+| 5    | Sep 28 to Oct 2 | **Thu Oct 1, Hilton 106**                                                           | Discovery and stakeholder engagement                                                                                                                     | none                                                                         |
+| 6    | Oct 5 to 9      | no                                                                                  | Scrum, continued: drilling the Guide                                                                                                                     | Scrum Open Assessment (Thu Oct 8)                                            |
+| 7    | Oct 12 to 16    | no                                                                                  | Working with an AI coding agent                                                                                                                          | none                                                                         |
+| 8    | Oct 19 to 23    | no                                                                                  | Scope, non-scope, and success measures. Choosing your capstone project                                                                                   | **Internship secured (Thu Oct 22)**                                          |
+| 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                                                          | Writing the PRD                                                                                                                                          | Practice wiki (Thu Oct 29)                                                   |
+| 10   | Nov 2 to 6      | no                                                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
+| 11   | Nov 9 to 13     | **Thu Nov 12, joint with ISBA 3720, in Hilton 106**                                 | Agile and Scrum in practice. Project briefs go out and teams form                                                                                        | **Projects assigned, teams form (Thu Nov 12)**                               |
+| 12   | Nov 16 to 20    | **Thu Nov 19, sprint planning, Hilton 106**                                         | Planning your sprint                                                                                                                                     | Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19) |
+| 13   | Nov 23 to 27    | no                                                                                  | Thanksgiving. Your sprint runs, but we do not meet                                                                                                       | none                                                                         |
+| 14   | Nov 30 to Dec 4 | **Thu Dec 3, stand-up, Hilton 106**                                                 | Running your sprint                                                                                                                                      | PRD draft (Thu Dec 3)                                                        |
+| 15   | Dec 7 to 11     | **Thu Dec 10, sprint review, Hilton 106**                                           | Closing your sprint, the retrospective, and handoff to ISBA 4797                                                                                         | Sprint review, capstone wiki, and final PRD (Thu Dec 10)                     |
 
 
 If you want to use an internship as your capstone, you have until Thu Oct 22 to
