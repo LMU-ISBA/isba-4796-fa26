@@ -3,30 +3,24 @@
 Loyola Marymount University, College of Business Administration
 Fall 2026
 
-| | |
-|---|---|
-| Format | In person |
-| Credit hours | 1 |
-| Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM |
-| Room | Hilton 106. The joint sessions with ISBA 3720 run hybrid; see the schedule and the note below it |
 
-**This course does not meet every Tuesday and Thursday.** It is one unit, and it
-uses eight of those slots. Keep the time free on your schedule, and check the
-schedule below for the dates we actually meet. Everything in that table is
-required. The weeks in between are yours to work in.
+|                |                                                                                                 |
+| -------------- | ----------------------------------------------------------------------------------------------- |
+| Format         | In person                                                                                       |
+| Credit hours   | 1                                                                                               |
+| Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM. We meet on Thursdays only, and not every Thursday. |
+| Room           | Hilton 106, every session. ISBA 3720 joins the two joint sessions on Zoom                       |
+
 
 ## Course description
 
-This course starts your capstone. You leave it with an approved capstone
-proposal, expressed as a product requirements document, a development
-environment and project repository you built yourself, and enough Scrum to run
-the first sprint of ISBA 4797.
+This course starts your capstone. You leave with an approved capstone proposal,
+expressed as a product requirements document (PRD), a development environment
+and project repository, and enough Scrum to run the first sprint of ISBA 4797.
 
-Five sessions are held jointly with ISBA 3720, Systems Analysis and Design, which
+Two sessions are held jointly with ISBA 3720, Systems Analysis and Design, which
 also produces a capstone proposal. You can satisfy the proposal requirement
-through this course, through ISBA 3720, or through the one-unit CAPSUN proposal
-course. The joint sessions mean the two cohorts learn the same method and can
-hear each other's problems.
+through this course or through ISBA 3720.
 
 You may work solo if your capstone is an internship you secure. Otherwise you
 work in a team.
@@ -35,160 +29,142 @@ work in a team.
 
 Professor Greg Lontok
 
-| | |
-|---|---|
-| Email | gregory.lontok@lmu.edu |
-| Preferred contact | Microsoft Teams |
-| Office | Hilton 114 |
-| Office hours | By appointment. Book at https://calendly.com/greg-lontok |
-| Zoom room | https://lmula.zoom.us/my/lontok |
+
+|                   |                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------- |
+| Email             | [gregory.lontok@lmu.edu](mailto:gregory.lontok@lmu.edu)                                      |
+| Preferred contact | Microsoft Teams                                                                              |
+| Office            | Hilton 114                                                                                   |
+| Office hours      | By appointment. Book at [https://calendly.com/greg-lontok](https://calendly.com/greg-lontok) |
+| Zoom room         | [https://lmula.zoom.us/my/lontok](https://lmula.zoom.us/my/lontok)                           |
+
 
 ## Learning outcomes
 
 By the end of this course you will be able to:
 
 1. **Frame and validate a problem with a real stakeholder.** Gather and document
-   their needs, confirm with them that you are serving the right person and
+  their needs, confirm with them that you are serving the right person and
    solving the right problem, and define a measure of success that can be
    tracked from the outset.
 2. **Produce a vetted capstone proposal, expressed as a PRD,** ready to carry
-   into ISBA 4797.
+  into ISBA 4797.
 3. **Explain your problem and proposed solution to someone unprepared,** without
-   notes and on the spot.
+  notes and on the spot.
 4. **Apply Agile and Scrum methods,** including planning and running a sprint.
 5. **Work in an AI-assisted development toolchain.** Set up Git, GitHub, and an
-   AI coding agent, use them competently, and explain the judgment behind what
-   you accept from AI.
+  AI coding agent, and explain the judgment behind what you accept from AI.
 
 ## Required materials
 
-**Required texts: none.** The Scrum Guide is free at https://scrumguides.org/
-and you will receive links to other online material.
+The Scrum Guide is free at [https://scrumguides.org/](https://scrumguides.org/) and you will receive links to other online material.
 
-**Required lab fees: none.**
-
-You need a computer you can install development tools on, and a Claude Pro
-subscription for the AI coding agent.
+The one thing you pay for in this course is a Claude Pro subscription for the
+AI coding agent. It is $20 a month. You need it in week 1, because the
+self-discovery interview is a Claude Code interview. If you start it the week of
+Thu Sep 3 and cancel after the final PRD on Thu Dec 10, that is four billing
+months, or about $80. There is no student discount, and the annual plan bills
+$200 upfront, so monthly is the cheaper way to take one semester.
 
 ## Deliverables
 
-| # | Deliverable | What you submit | Due |
-|---|---|---|---|
-| 1 | Self-discovery interview | The Markdown file from your Claude Code interview | Tue Sep 15 |
-| 2 | Development environment and capstone repository | Your own repository, built from scratch, plus a short write-up of the choices you made | Thu Sep 24 |
-| 3 | Scrum Open Assessment | Your completed assessment from scrum.org | Thu Oct 8 |
-| 4 | Stakeholder confirmation | Written confirmation from your stakeholder that you are serving the right person, solving the right problem, and measuring the right thing | Tue Nov 3 |
-| 5 | Sprint cycle | Observed across your three sprint meetings, Nov 5 to Nov 19 | Nov 5 to Nov 19 |
-| 6 | Proposal defense | Live, at the joint session | Tue Dec 1 |
-| 7 | PRD | Draft Tue Dec 1, final in your project repository | Thu Dec 10 |
+What you submit for each, in the order they come due. The dates are in the
+schedule.
 
-Deliverables 1, 2, and 3 are individual. Deliverables 4 through 7 belong to your
-team, or to you alone if your capstone is an internship.
+- Self-discovery interview - the Markdown file from your Claude Code interview
+- AI Dev Workflow Tutorial - your public repository URL, your live Streamlit
+dashboard URL, and your completed TASKS.md
+- Scrum Open Assessment - your completed assessment from scrum.org
+- Practice wiki - your own research wiki on the practice case, built with your
+agent from week 2 onward, with its raw sources, index, and log
+- Development environment and capstone repository - your team's repository URL,
+built from scratch, with your environment set up and your teammates added
+- Stakeholder confirmation - written confirmation from your stakeholder that you
+are serving the right person, solving the right problem, and measuring the
+right thing
+- Sprint cycle and review - nothing to upload. You are observed at sprint
+planning and at the stand-up, and you present live and take questions at the
+review
+- Capstone wiki - your team's research wiki on your real project, in your
+capstone repository
+- PRD - your problem brief and the PRD it becomes. A draft at the stand-up, and
+the final version presented at the sprint review
 
-**Deliverable 2 is not the tutorial.** You will work through the
-[AI Dev Workflow Tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial) as
-onboarding, and the tutorial is where you learn the toolchain. What
-is graded is whether you can then do it again for your own project: your own
-repository, your own environment, set up from nothing, with your reasons written
-down. Cloning the tutorial's repo does not demonstrate that, and it is the
-difference between having followed instructions and being able to start.
+The first four are individual. The rest belong to your team, or to you alone if
+your capstone is an internship.
 
-The tutorial itself is not submitted and carries no points. Work through it
-before Deliverable 2 is due.
+**The capstone repository is not the tutorial.** The
+[AI Dev Workflow Tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial) is
+its own deliverable and you work through it alone. It is where you learn the
+toolchain: Git, GitHub, an AI coding agent, and a Streamlit dashboard deployed to
+a live URL.
+
+The capstone repository is your team doing it again but applied to your project.
+A repository named for your project, your teammates added to it, and a working
+environment set up from nothing.
 
 ## Grading
 
 A 1000-point scheme. Every point is a tenth of a percent.
 
-| Component | Points | % |
-|---|---:|---:|
-| Self-discovery interview | 50 | 5.0 |
-| Development environment and capstone repository | 150 | 15.0 |
-| Scrum Open Assessment | 50 | 5.0 |
-| Stakeholder confirmation | 150 | 15.0 |
-| Sprint cycle | 150 | 15.0 |
-| Proposal defense | 150 | 15.0 |
-| PRD | 250 | 25.0 |
-| Meeting participation | 50 | 5.0 |
-| **Total** | **1000** | **100** |
 
-**Grade scale:** A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82),
+| Component                                       | Points   | %       |
+| ----------------------------------------------- | -------- | ------- |
+| Self-discovery interview                        | 25       | 2.5     |
+| AI Dev Workflow Tutorial                        | 150      | 15.0    |
+| Scrum Open Assessment                           | 75       | 7.5     |
+| Practice wiki                                   | 50       | 5.0     |
+| Development environment and capstone repository | 100      | 10.0    |
+| Stakeholder confirmation                        | 100      | 10.0    |
+| Capstone wiki                                   | 50       | 5.0     |
+| Sprint cycle and review                         | 250      | 25.0    |
+| PRD                                             | 200      | 20.0    |
+| **Total**                                       | **1000** | **100** |
+
+
+**Grade scale:** A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82),  
 C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
-
-### What each thing is for
-
-Every component observes something different, and three of them observe things
-this course did not previously assess.
-
-**Stakeholder confirmation** is outcome 1, and it is the thing you actually own
-in this course. A proposal that reads well and names a stakeholder is not the
-same as a stakeholder who agrees you understand their problem. The second one is
-what you submit.
-
-**The sprint cycle** is outcome 4. You plan a sprint, run it, hold a stand-up in
-the middle, and review it at the end, with me in the room. A quiz can tell me you
-have read the Scrum Guide. Only running one tells me you can run one, which is
-why the Scrum Open Assessment is now worth 50 rather than 100.
-
-**The proposal defense** is outcome 3. You explain your problem and your proposed
-solution to a room that has not read your PRD, without notes. The ISBA 3720
-cohort is in that room, which is the point: they are unprepared in exactly the
-way a stakeholder is.
 
 ## Schedule
 
-Fall 2026 instruction runs Aug 31 to Dec 11. **We meet on the eight dates marked
-below**, in the Tuesday/Thursday 9:55 to 11:35 slot. The other weeks have an
-asynchronous module to work through on your own time.
 
-| Week | Dates | We meet | Module | Due |
-|---|---|---|---|---|
-| 1 | Aug 31 to Sep 4 | **Thu Sep 3, joint with ISBA 3720, in Hilton 106** | What the capstone expects of you, then this syllabus. Onboarding on your own: AI Dev Workflow Tutorial and self-discovery interview | none |
-| 2 | Sep 7 to 11 | **Thu Sep 10, joint with ISBA 3720, on Zoom** | Framing a problem worth solving | none |
-| 3 | Sep 14 to 18 | Individual meeting, 30 min, booked | Scrum foundations: read the Scrum Guide | Self-discovery interview (Tue Sep 15) |
-| 4 | Sep 21 to 25 | no | Scope and feasibility | Dev environment and capstone repo (Thu Sep 24) |
-| 5 | Sep 28 to Oct 2 | **Thu Oct 1, joint with ISBA 3720, on Zoom** | Discovery and stakeholder engagement | none |
-| 6 | Oct 5 to 9 | no | Scrum, continued: sprints, roles, artifacts | Scrum Open Assessment (Thu Oct 8) |
-| 7 | Oct 12 to 16 | no | Build versus buy, and hosting | none |
-| 8 | Oct 19 to 23 | no | Choosing your capstone project | **Internship secured or project assigned (Thu Oct 22)** |
-| 9 | Oct 26 to 30 | **Thu Oct 29, joint with ISBA 3720, on Zoom** | Writing the PRD | Teams form (Tue Oct 27) |
-| 10 | Nov 2 to 6 | **Thu Nov 5, sprint planning, Hilton 106** | Planning your sprint | Stakeholder confirmation (Tue Nov 3) |
-| 11 | Nov 9 to 13 | **Thu Nov 12, stand-up, Hilton 106** | Running your sprint | none |
-| 12 | Nov 16 to 20 | **Thu Nov 19, sprint review, Hilton 106** | Closing your sprint | none |
-| 13 | Nov 23 to 27 | no | Thanksgiving. No course activity | none |
-| 14 | Nov 30 to Dec 4 | **Tue Dec 1, proposal defense, joint with ISBA 3720, on Zoom** | Defending the proposal | PRD draft (Tue Dec 1) |
-| 15 | Dec 7 to 11 | no | Finishing the PRD, handoff to ISBA 4797 | Final PRD (Thu Dec 10) |
+| Week | Dates           | We meet                                             | Module                                                                                                                                                   | Due                                                                          |
+| ---- | --------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1    | Aug 31 to Sep 4 | **Thu Sep 3, joint with ISBA 3720, in Hilton 106**  | What the capstone expects of you, then this syllabus. You get the practice case. On your own: install Claude Code and start the self-discovery interview | none                                                                         |
+| 2    | Sep 7 to 11     | **Individual meeting, 15 min, booked**              | Self-discovery, and the AI Dev Workflow Tutorial                                                                                                         | Self-discovery interview (Tue Sep 8)                                         |
+| 3    | Sep 14 to 18    | no                                                  | Scrum foundations: read the Scrum Guide                                                                                                                  | AI Dev Workflow Tutorial (Tue Sep 15)                                        |
+| 4    | Sep 21 to 25    | **Thu Sep 24, Hilton 106**                          | Framing a problem worth solving, and the interview it exposes                                                                                            | none                                                                         |
+| 5    | Sep 28 to Oct 2 | **Thu Oct 1, Hilton 106**                           | Discovery and stakeholder engagement                                                                                                                     | none                                                                         |
+| 6    | Oct 5 to 9      | no                                                  | Scrum, continued: drilling the Guide                                                                                                                     | Scrum Open Assessment (Thu Oct 8)                                            |
+| 7    | Oct 12 to 16    | no                                                  | Working with an AI coding agent                                                                                                                          | none                                                                         |
+| 8    | Oct 19 to 23    | no                                                  | Scope, non-scope, and success measures. Choosing your capstone project                                                                                   | **Internship secured (Thu Oct 22)**                                          |
+| 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                          | Writing the PRD                                                                                                                                          | Practice wiki (Thu Oct 29)                                                   |
+| 10   | Nov 2 to 6      | no                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
+| 11   | Nov 9 to 13     | **Thu Nov 12, joint with ISBA 3720, in Hilton 106** | Agile and Scrum in practice. Project briefs go out and teams form                                                                                        | **Projects assigned, teams form (Thu Nov 12)**                               |
+| 12   | Nov 16 to 20    | **Thu Nov 19, sprint planning, Hilton 106**         | Planning your sprint                                                                                                                                     | Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19) |
+| 13   | Nov 23 to 27    | no                                                  | Thanksgiving. Your sprint runs, but we do not meet                                                                                                       | none                                                                         |
+| 14   | Nov 30 to Dec 4 | **Thu Dec 3, stand-up, Hilton 106**                 | Running your sprint                                                                                                                                      | PRD draft (Thu Dec 3)                                                        |
+| 15   | Dec 7 to 11     | **Thu Dec 10, sprint review, Hilton 106**           | Closing your sprint, the retrospective, and handoff to ISBA 4797                                                                                         | Sprint review, capstone wiki, and final PRD (Thu Dec 10)                     |
 
-**Why the internship deadline sits where it does.** If you want to use an
-internship as your capstone, you have until Thu Oct 22 to secure one. That is
-seven weeks of searching, and it is deliberately after the discovery session on
-Oct 1, so you learn how to interrogate a problem before you decide whether a
-given internship is one worth building on. If you do not have an internship by
-Oct 22, you are assigned a project, and you still have seven weeks to do the
-proposal.
 
-**Calendar notes.** No class activity on Labor Day (Mon Sep 7), Autumn Day
-(Fri Oct 9), or Thanksgiving (Wed Nov 25 to Fri Nov 27). Fri Sep 4 is the last
-day to add or drop without a W. Fri Nov 13 is the last day to withdraw, by which
-point you will have had sprint planning and a stand-up.
+If you want to use an internship as your capstone, you have until Thu Oct 22 to
+secure one. If you do not have an internship by Oct 22, a project is assigned to
+you on Thu Nov 12.
 
-**Four of the five joint sessions run hybrid.** ISBA 3720 meets in person and
-you join on Zoom at https://lmula.zoom.us/my/lontok, in our scheduled slot. You
-are on camera and you participate, so treat it as a class you are attending
-rather than a stream you are watching. The proposal defense in week 14 is one of
-these, and you will be presenting to a room you are not standing in.
+Fri Sep 4 is the last day to add or drop without a W. Fri Nov 13 is the last day
+to withdraw.
 
-**Thu Sep 3 runs the other way around.** You are in Hilton 106 and ISBA 3720
-joins us on Zoom. We spend the first part of the slot together on what the
-capstone expects of you, then they drop off and we spend the rest on this
-syllabus. Come to the room.
+**Sprint meetings** happen in our scheduled slot in Hilton 106, on Thu Nov 19,
+Thu Dec 3, and Thu Dec 10. Each team books a time within the slot for planning and
+the stand-up. The sprint review on Dec 10 works differently. Everyone stays for
+the whole slot, because the other teams are your audience. If your capstone is an
+internship you are working solo, you run your sprint on your own and meet me
+alone for planning and the stand-up, and you present at the review with everyone
+else.
 
-**Sprint meetings** happen in our scheduled slot in Hilton 106. Each team books a
-time within it. If your capstone is an internship you are working solo, you run
-your sprint cycle on your own and meet me alone.
-
-**Your individual meeting** in week 3 is 30 minutes, in Hilton 114 or on Zoom.
-Book at https://calendly.com/greg-lontok/30min
+**Your individual meeting** in week 2 is 15 minutes on Zoom. Submit your
+self-discovery interview first.
+Book at [https://calendly.com/greg-lontok/15min](https://calendly.com/greg-lontok/15min)
 
 ## Work load expectations
 
@@ -196,85 +172,69 @@ This is a 1-unit course. Under LMU's credit hour policy that is about 45 hours
 across the term: roughly 15 hours of instruction, counting the asynchronous
 modules and your synchronous sessions, and 30 hours of your own work.
 
-Across fifteen weeks that averages about 3 hours a week, and it does not arrive
-evenly. Week 1's onboarding, the sprint weeks, and the last two weeks run
-heavier than the rest. Credit hour policy:
-https://academics.lmu.edu/aprc/lmucredithourpolicy/
+Across fifteen weeks that averages about 3 hours a week. Week 1's onboarding,
+the sprint weeks, and the last two weeks run heavier than the rest. Credit hour
+policy:
+[https://academics.lmu.edu/aprc/lmucredithourpolicy/](https://academics.lmu.edu/aprc/lmucredithourpolicy/)
 
 ## Assignment submission
 
-Assignments are submitted through Brightspace by the posted deadline.
-Deadlines are hard.
+Assignments are submitted through Brightspace by the posted deadline. Late work
+loses 10% per day, down to a floor of 50%.
 
-Late work loses 10% per day, down to a floor of 50%. A late assignment is worth
-less, but it's never worth nothing, so finish it and turn it in.
+If you know you'll miss one, send me a Teams message before it passes. I may
+move it. That's case by case, and there's no bank of late days to spend. The new
+date is then the deadline, and the penalty runs from there.
 
-If you know you're going to miss a deadline, send me a Teams message before it
-passes. I may move it. That's case by case, and there's no bank of late days to
-spend. If I move a deadline, the new date is the deadline, and the 10% per day
-runs from there.
-
-No message before the deadline means no conversation after it. The 10% per day
+No message before the deadline means no conversation after it, and the penalty
 runs from the original date.
 
 Some assignments are delivered in person at a fixed time. Everything above
-applies to them, and the meeting time is the deadline. If this syllabus says an
-event can't be rescheduled, missing it scores zero.
+applies to them, and the meeting time is the deadline.
 
-Emergencies sit outside this one too. Tell me when you're able and we'll make a
+Emergencies sit outside this too. Tell me when you're able and we'll make a
 plan.
 
-## Attendance and participation
+## Attendance
 
-Your scheduled commitments are the five joint sessions with ISBA 3720, your
-individual meeting in week 3, and your three sprint cycle meetings.
+Your scheduled commitments are the eight sessions in the schedule above and your
+individual meeting in week 2.
 
 If you feel ill, stay home. Rest, and keep everyone else healthy.
 
-When you can't make a scheduled commitment, send me a Teams message. Before the
-commitment is best, and as soon as you can if something happens that morning.
-Late still beats silent.
+When you can't make one, send me a Teams message. Beforehand is best, and as soon
+as you can if something happens that morning. Late still beats silent.
 
 Your first three absences cost you nothing if you told me. You don't owe me a
-reason and I won't ask for documentation. What matters is that I know.
+reason and I won't ask for documentation.
 
-An absence you never tell me about costs 2% of your total grade from the first
-one, and it still uses up one of the three. From the fourth absence on, each
-absence costs 2% whether you told me or not.
+An absence you never tell me about costs 2% of your total grade, and it still
+uses up one of the three. From the fourth on, each absence costs 2% whether you
+told me or not. That 2% comes off your final grade after everything else is
+totaled, so attendance is not a line in the grading table.
 
-That 2% comes off your final course grade after everything else is totaled.
-Attendance is not a line in the grading table.
-
-If you reach four absences I'll reach out. At six we'll sit down and talk
-honestly about whether finishing the term is realistic, and whether withdrawing
-is the better call. I would rather have that conversation in October than write
-it into your grade in December.
-
-Some of your scheduled commitments are also graded work. Missing one of those
-costs you twice. The absence counts here like any other, and what happens to the
-grade is in the assignment submission policy, because those points are for the
-work rather than for showing up.
+Some commitments are also graded work, and missing one costs you twice. The
+absence counts here like any other, and the grade is handled by the assignment
+submission policy.
 
 Emergencies sit outside all of this. Serious illness, hospitalization, a death in
 the family: the three-absence count doesn't apply. Tell me when you're able and
 we'll work out a plan for the rest of the term.
 
-The proposal defense in week 14 is not reschedulable except in a genuine
-emergency, and missing it scores zero on that component. It is a joint session
-with another course, so there is no second sitting to move you to. If something
-genuine happens, tell me and we will work it out.
+The sprint review on Thu Dec 10 is not reschedulable except in a genuine
+emergency, and missing it scores zero. Your audience is the other teams, and they
+are in that room for it once.
 
 ## How the course runs between sessions
 
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-**Interaction.** The eight sessions are where the teaching happens. Between them,
-Teams is the fastest way to reach me, and office hours are bookable at the
-Calendly link above.
+**Interaction.** Between the eight sessions, Teams is the fastest way to reach
+me, and office hours are bookable at the Calendly link above.
 
 **Feedback.** You get feedback on each deliverable within one week of its due
-date. Sprint cycle and proposal defense feedback is given verbally at the meeting
+date. Sprint cycle and sprint review feedback is given verbally at the meeting
 and in writing within one week.
 
 **Student engagement.** Engagement here looks like working through the module,
@@ -286,16 +246,15 @@ early and be wrong.
 
 ## Use of technology and AI
 
-You are expected to use AI in this course, including an AI coding agent. Outcome
-5 is about using it well, not avoiding it.
+You are expected to use AI in this course, including an AI coding agent.
 
-What is assessed is your judgment, not the output. Be ready to explain what you
-submitted, why you did it that way, and what you would do if a constraint
-changed. That is the whole point of the proposal defense, and it is why work you
+What is assessed is your judgment, not just the output. Be ready to explain what
+you submitted, why you did it that way, and what you would do if a constraint
+changed. That is the whole point of the sprint review, and it is why work you
 cannot explain does not earn credit here.
 
-**ITS Service Desk:** 310-338-7777 or 213-736-1097, servicedesk@lmu.edu,
-https://its.lmu.edu/servicedesk
+**ITS Service Desk:** 310-338-7777 or 213-736-1097, [servicedesk@lmu.edu](mailto:servicedesk@lmu.edu),
+[https://its.lmu.edu/servicedesk](https://its.lmu.edu/servicedesk)
 
 ## Academic honesty
 
@@ -308,7 +267,7 @@ acknowledging that source.
 In this course that most often means a proposal you cannot explain. Using AI is
 expected. Presenting AI output you do not understand as your own thinking is not.
 
-LMU Academic Honesty Policy: https://academics.lmu.edu/honesty/
+LMU Academic Honesty Policy: [https://academics.lmu.edu/honesty/](https://academics.lmu.edu/honesty/)
 
 ## Accommodations
 
@@ -320,20 +279,20 @@ physical, or psychiatric, and needs academic accommodations should contact the
 DSS Office as early in the semester as possible.
 
 DSS is in Daum Hall, 2nd floor, 310-338-4216. All discussions remain
-confidential. https://academics.lmu.edu/dss/
+confidential. [https://academics.lmu.edu/dss/](https://academics.lmu.edu/dss/)
 
 ## Student support and reporting
 
-**Student support services:** https://studentaffairs.lmu.edu/
+**Student support services:** [https://studentaffairs.lmu.edu/](https://studentaffairs.lmu.edu/)
 
 **Reporting sexual or interpersonal misconduct:**
-https://studentaffairs.lmu.edu/lmucares/
+[https://studentaffairs.lmu.edu/lmucares/](https://studentaffairs.lmu.edu/lmucares/)
 
 **Emergency preparedness.** To report an emergency or suspicious activity,
 contact LMU Public Safety at x222 or 310-338-2893, or use the nearest emergency
 call box. In an evacuation, follow the signage to the designated safe refuge area
 and wait for instruction from Public Safety or a Building Captain.
-https://www.lmu.edu/emergency
+[https://www.lmu.edu/emergency](https://www.lmu.edu/emergency)
 
 ## Tentative nature of this syllabus
 
