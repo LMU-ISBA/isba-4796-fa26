@@ -55,16 +55,36 @@ By the end of this course you will be able to:
 5. **Work in an AI-assisted development toolchain.** Set up Git, GitHub, and an
   AI coding agent, and explain the judgment behind what you accept from AI.
 
+## Instructional methods
+
+The course meets eight times, always on a Thursday, in Hilton 106. Two of those
+sessions run jointly with ISBA 3720, which joins on Zoom. You also book one
+15-minute individual meeting with me on Zoom in week 2.
+
+Between sessions you work through asynchronous modules in Brightspace. That is
+where most of the reading happens. Three of our sessions work a single practice
+case, where I play the stakeholder and you interview me. The last three are your
+sprint: planning, a stand-up, and a review where every team presents to the
+others.
+
+You work with an AI coding agent throughout, and you keep a research wiki that
+the agent maintains for you.
+
 ## Required materials
 
 The Scrum Guide is free at [https://scrumguides.org/](https://scrumguides.org/), and you will receive links to other online material.
 
-The one thing you pay for in this course is a Claude Pro subscription for the
-AI coding agent. It is $20 a month. You need it in week 1, because the
-self-discovery interview is a Claude Code interview. If you start it the week of
-Thu Sep 3 and cancel after the final PRD on Thu Dec 10, that is four billing
-months, or about $80. There is no student discount, and the annual plan bills
-$200 upfront, so monthly is the cheaper way to take one semester.
+The one thing you pay for in this course is a Claude Pro subscription for the AI
+coding agent. It is $20 a month. You need it in week 1, because the
+self-discovery interview is a Claude Code interview. Start it the week of Thu
+Sep 3 and cancel after the final PRD on Thu Dec 10. That is four billing months,
+or about $80. There is no student discount, and the annual plan bills $200
+upfront, so monthly is the cheaper way to take one semester.
+
+## Required lab fees
+
+None. LMU bills no lab fee for this course. You do pay for a Claude Pro
+subscription yourself, and required materials above explains what that costs.
 
 ## Deliverables
 
@@ -84,15 +104,15 @@ planning and at the stand-up, and you present live and take questions at the
 review
 - Capstone wiki - your team's research wiki on your real project, in your
 capstone repository
-- PRD - your problem brief and the PRD it becomes. A draft at the stand-up, and
-the final version presented at the sprint review
+- PRD - your problem brief and the PRD it becomes. You turn in a draft at the
+stand-up, and you present the final version at the sprint review
 
 The first four are individual. The rest belong to your team, or to you alone if
 your capstone is an internship.
 
-**The capstone repository is not the tutorial.** The
-[AI Dev Workflow Tutorial](https://github.com/LMU-ISBA/ai-dev-workflow-tutorial) is
-its own deliverable and you work through it alone. It is where you learn the
+The capstone repository is not the tutorial. The AI Dev Workflow Tutorial at
+https://github.com/LMU-ISBA/ai-dev-workflow-tutorial is its own deliverable, and
+you work through it alone. It is where you learn the
 toolchain: Git, GitHub, an AI coding agent, and a Streamlit dashboard deployed to
 a live URL.
 
@@ -227,17 +247,15 @@ are in that room for it once.
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-**Interaction.** Between the eight sessions, Teams is the fastest way to reach
-me, and office hours are bookable at
-[https://calendly.com/greg-lontok](https://calendly.com/greg-lontok).
+Between the eight sessions, Teams is the fastest way to reach me. Office hours
+are bookable at https://calendly.com/greg-lontok
 
-**Feedback.** You get feedback on each deliverable within one week of its due
-date. Sprint cycle and sprint review feedback is given verbally at the meeting
-and in writing within one week.
+You get feedback on each deliverable within one week of its due date. Feedback
+on the sprint cycle and the sprint review comes verbally at the meeting, and in
+writing within one week.
 
-**Student engagement.** Engagement here looks like working through the module,
-showing up to the sessions you are committed to, and moving your proposal
-forward between them. If a deliverable does not arrive and I have not heard from
+Engagement here looks like working through the module, showing up to the
+sessions you are committed to, and moving your proposal forward between them. If a deliverable does not arrive and I have not heard from
 you, I will reach out over Teams. In a course with this few contact points, a
 student can drift for weeks before anyone notices, so I would rather check in
 early and be wrong.
@@ -286,7 +304,7 @@ confidential. [https://academics.lmu.edu/dss/](https://academics.lmu.edu/dss/)
 **Reporting sexual or interpersonal misconduct:**
 [https://studentaffairs.lmu.edu/lmucares/](https://studentaffairs.lmu.edu/lmucares/)
 
-**Emergency preparedness.** To report an emergency or suspicious activity,
+To report an emergency or suspicious activity,
 contact LMU Public Safety at x222 or 310-338-2893, or use the nearest emergency
 call box. In an evacuation, follow the signage to the designated safe refuge area
 and wait for instruction from Public Safety or a Building Captain.
