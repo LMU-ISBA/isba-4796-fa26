@@ -5,9 +5,9 @@ for week 2 at https://calendly.com/greg-lontok/15min, because the meeting is bui
 on what you say here.
 
 Answering out loud with speech-to-text is faster than typing, and it tends to surface
-more detail than you'd bother to type, which makes the result more useful to you. Both
-Claude Code and the Claude web app have dictation built in. Click the microphone next to
-the message box, talk, and click it again when you're done.
+more detail than you'd bother to type, which makes the result more useful to you. Claude
+Code, the Claude web app, ChatGPT, and Gemini all have dictation built in. Click the
+microphone next to the message box, talk, and click it again when you're done.
 
 ---
 
