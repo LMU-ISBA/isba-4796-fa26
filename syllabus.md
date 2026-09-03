@@ -88,7 +88,8 @@ subscription yourself, and required materials above explains what that costs.
 
 ## Deliverables
 
-- Self-discovery interview - the Markdown file from your Claude Code interview
+- Self-discovery interview - the Markdown file from your 15-minute Claude Code
+interview, using the prompt at self-discovery-interview.md in this repository
 - AI Dev Workflow Tutorial - your public repository URL, your live Streamlit
 dashboard URL, and your completed TASKS.md
 - Scrum Open Assessment - your completed assessment from scrum.org
