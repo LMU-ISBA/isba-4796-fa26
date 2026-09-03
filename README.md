@@ -34,7 +34,7 @@ room.
 
 | | |
 |---|---|
-| Tue Sep 8 | Self-discovery interview |
+| Tue Sep 8 | [Self-discovery interview](self-discovery-interview.md) |
 | Tue Sep 15 | AI Dev Workflow Tutorial |
 | Thu Oct 22 | Internship secured |
 | Thu Oct 29 | Practice wiki |
