@@ -3,7 +3,8 @@
 Capstone Proposal Development
 Loyola Marymount University, College of Business Administration
 
-Start with the [syllabus](syllabus.md).
+Start with the [syllabus](syllabus.md), also available as a
+[PDF](isba-4796-syllabus-fa26.pdf).
 
 You leave this course with an approved capstone proposal, a development
 environment and project repository you built yourself, and enough Scrum to run
@@ -35,7 +36,7 @@ room.
 | | |
 |---|---|
 | Tue Sep 8 | [Self-discovery interview](self-discovery-interview.md) |
-| Tue Sep 15 | AI Dev Workflow Tutorial |
+| Tue Sep 22 | AI Dev Workflow Tutorial |
 | Thu Oct 22 | Internship secured |
 | Thu Oct 29 | Practice wiki |
 | Thu Nov 12 | Projects assigned and teams form |
@@ -45,3 +46,11 @@ room.
 
 This repository is read-only for students. Your work lives in your own capstone
 project repository.
+
+## Regenerating the syllabus PDF
+
+After editing `syllabus.md`, rebuild the PDF with the shared script:
+
+```bash
+uv run ~/.claude/skills/pdf-generation/generate_pdf.py syllabus.md -o isba-4796-syllabus-fa26.pdf
+```
