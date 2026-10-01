@@ -31,6 +31,21 @@ Plus one 15-minute individual meeting on Zoom in week 2, which you book.
 Both joint sessions put you in Hilton 106 with ISBA 3720 on Zoom. Come to the
 room.
 
+## October 1: Discovery and stakeholder engagement
+
+Use these worksheets on your computer; no printouts are needed.
+
+- [Student workbook](oct-1/student-workbook.html): conversation guide,
+  interview notes, feedback, and reflection. Each student completes their own.
+- [Group recap](oct-1/group-recap.html): one recorder captures the group's
+  findings after everyone checks the account.
+
+Open each file on GitHub and click **Download raw file**, then open the downloaded
+HTML file in your browser. After your interview and at the end of class, use
+**Save editable copy** to keep your answers. Reopen that saved copy to continue.
+Use **Download text for submission** and submit the text file through the
+location announced in class. Downloading does not submit your work.
+
 ## Dates that decide things
 
 | | |
