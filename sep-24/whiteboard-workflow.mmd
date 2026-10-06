@@ -1,0 +1,20 @@
+flowchart TB
+  subgraph R1["1. Plan the work"]
+    direction LR
+    PRD["PRD<br/>what the business needs"] --> TASKS["TASKS.md<br/>the project board"] --> BRAIN["Brainstorm"] --> SPEC["Spec<br/>what and why"] --> PLAN["Plan<br/>how, in small steps"]
+  end
+  subgraph R2["2. Build it, one milestone at a time"]
+    direction LR
+    BRANCH["Feature branch"] --> EXEC{"Execution"}
+    EXEC -->|"you watch<br/>every step"| INLINE["Inline"]
+    EXEC -->|"a fresh agent<br/>per task"| SUB["Subagent-driven"]
+    INLINE --> TDD["TDD<br/>test first"]
+    SUB --> TDD
+    TDD --> COMMIT["Commit<br/>with the TASK id"]
+    COMMIT -.->|"next milestone"| TDD
+  end
+  subgraph R3["3. Ship it"]
+    direction LR
+    REVIEW["Review"] --> MERGE["Merge to main"] --> PUSH["Push"] --> DEPLOY["Deploy"] --> LIVE(["Live app"])
+  end
+  R1 --> R2 --> R3
