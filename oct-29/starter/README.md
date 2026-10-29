@@ -58,9 +58,10 @@ You can take notes in any app while technical issues are resolved.
 
 ## 10:10-10:35: Interview and agree on the problem
 
+EXAMPLE → EXPLORE → REFLECT → NEXT
+
 Use the first three minutes to prepare an opening question and possible
-follow-ups. There is one twelve-minute interview for the whole class, using
-Example, Explore, Reflect, and Next.
+follow-ups. There is one twelve-minute interview for the whole class.
 
 One group asks the opening question. All four groups contribute follow-up
 questions and take their own notes. The instructor calls on different groups
