@@ -1,40 +1,34 @@
 # Initial product brief
 
-Status: This is a classroom draft. Real stakeholder validation is pending.
+Project: [Project name]
+Team: [Team members]
+Updated: [Date]
+Status: Draft
 
-Record your group number, members, and revision date here.
+Replace the guidance with short paragraphs or bullets. Start with roughly one
+page, using specific evidence from your research. Label assumptions and unknowns,
+then update the brief as you learn more.
 
-Replace the guidance below with your group's answers. Keep the six sections
-and aim for 300-400 words total. Refer to specific details from your interview notes.
+## 1. Problem and users
 
-## 1. Who has the problem?
+Who has the problem, and why does it matter?
 
-Describe the intended user, the task, and the difficulty. Explain why that
-difficulty matters. Use the shared problem statement to keep your scope focused.
+## 2. Evidence
 
-## 2. What evidence supports our interpretation?
+What did interviews or observations reveal? Separate facts from assumptions.
 
-Cite the interview evidence that supports your claim. Distinguish what the
-stakeholder reported from what your group inferred.
+## 3. Desired outcome
 
-## 3. What outcome would improve?
+What should improve, and how would you measure it?
 
-Name the improvement and how you could measure it. If the baseline or target
-is unknown, explain how you would establish it with a stakeholder.
+## 4. Proposed solution
 
-## 4. What approach do we propose, and why?
+What do you propose, and why did you choose it over another option?
 
-Describe your proposed approach and its initial scope. Explain why you chose
-it over an alternative, including a relevant trade-off. Link `mockup.html`
-after creating it, and identify the assumption it helps examine.
+## 5. Scope
 
-## 5. What is outside our initial scope?
+What will the first version include and leave out? Note important constraints.
 
-State what you will leave out. Name constraints and decisions that must stay
-with a person rather than the proposed system.
+## 6. Open questions
 
-## 6. What assumptions must we test next?
-
-Name the uncertainty that could most change your proposal. Describe how you
-would test it and who should participate. State what finding would make you
-reconsider your approach.
+What still needs confirmation, and how will you find out?
