@@ -32,7 +32,7 @@ your capstone proposal without adding a new graded assignment.
 ## 10:00-10:10: Set up your group repo
 
 Only the driver needs to clone the repo. Start with this template:
-https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
+https://r.isba.co/hearing-prep
 
 1. Open the template on GitHub.
 2. Select "Use this template," then "Create a new repository."
@@ -126,7 +126,7 @@ Check the public GitHub repo for the latest commit and draft files. Confirm
 that the README lists every group member's full name.
 
 One person per group posts the public repo link in the class Teams channel:
-https://teams.microsoft.com/l/channel/19%3AHOfl44oya2Y6zy3jfQOg03qdCjWxwXusvxTkwHqaHkY1%40thread.tacv2/General?groupId=03a3e50e-3b80-4675-904e-11651fc51b6d&tenantId=0376eb4b-c206-4056-9061-e342dc2ecda8
+https://r.isba.co/4796-teams-fa26
 
 ## 11:05-11:25: Present and defend
 
