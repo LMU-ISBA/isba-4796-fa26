@@ -10,7 +10,7 @@ illustrates its proposal, and defends its choices.
 ## Start here
 
 Read [the student instructions](starter/README.md) for the agenda, prompts,
-and Git commands. Choose one driver per group to operate the computer.
+and prompts for saving work with Git. Choose one driver per group to operate the computer.
 
 During class, create your group repository from this template:
 https://github.com/LMU-ISBA/isba-4796-hearing-prep-template

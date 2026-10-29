@@ -53,6 +53,10 @@ Do not create a separate interview notes file. Suggest corrections for students
 to review rather than rewriting what the stakeholder reportedly said. When revising,
 explain which feedback supports each proposed change.
 
-Students perform Git operations themselves. You may explain commands and help
-interpret errors, but do not stage, commit, push, create remote repositories,
-or deploy. Do not install dependencies or modify your own instructions.
+When students ask you to save their work, show the proposed changes and explain
+what will be committed. Wait for their review before staging, committing, and
+pushing the requested files. Use their requested commit message and report
+whether the push succeeded. Do not include unrelated files.
+
+Do not create remote repositories, deploy, install dependencies, or modify
+your own instructions.

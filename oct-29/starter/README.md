@@ -94,26 +94,15 @@ Ask us what we want to show before creating a single mockup.html file with ficti
 Spend at most eight minutes on the mockup. Open `mockup.html` in a browser and
 check that it agrees with your brief. Use the remaining time to save a commit.
 
-Run these commands yourself, from the group repo:
+Ask Claude Code to help save your draft:
 
-If you used a paper sketch, describe it in your notes first. Omit
-`mockup.html` from the staging command when that file doesn't exist.
-
-```bash
-git status
-git diff
-git add PRD.md mockup.html
-git diff --cached
+```text
+Show us the changes in PRD.md and mockup.html and explain what will be committed.
+Wait for our review, then commit with the message "Draft product brief and concept mockup" and push to GitHub.
+If mockup.html doesn't exist, commit only PRD.md.
 ```
 
-Review the staged changes with your group. The staged diff includes newly
-created files, which may not appear in the earlier diff. If the changes are
-correct, run:
-
-```bash
-git commit -m "Draft product brief and concept mockup"
-git push
-```
+Review the changes together before telling Claude Code to proceed.
 
 A commit saves a local checkpoint. Pushing copies it to GitHub. If pushing
 fails, keep the local commit and ask for help.
@@ -134,12 +123,12 @@ Capture feedback in your notes app. Discuss which changes to accept or reject
 and why. Revise the brief and mockup together so they still describe the
 same proposal.
 
-Repeat the review and staging commands above. Then save the revision:
+Ask Claude Code to save the revision:
 
-```bash
-git commit -m "Revise proposal after class feedback"
-git push
-git status
+```text
+Show us what changed in our brief and mockup since the last commit.
+Wait for our review, then commit the revised files with the message "Revise proposal after class feedback" and push to GitHub.
+Confirm whether the push succeeded.
 ```
 
 Check the GitHub repo for the latest commit and revised files. A clean local
@@ -157,5 +146,5 @@ Discuss the six PRD questions as a group and write the brief manually. Sketch
 the proposal on paper if the mockup can't be generated. Keep your local work
 if GitHub is unavailable, and tell the instructor which step needs follow-up.
 
-If you couldn't clone the repo, save the files without running the Git commands.
+If you couldn't clone the repo, save the files and ask the instructor for help with Git.
 The instructor will help you complete that step later.
