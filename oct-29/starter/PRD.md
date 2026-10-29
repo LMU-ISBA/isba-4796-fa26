@@ -5,7 +5,7 @@ Status: This is a classroom draft. Real stakeholder validation is pending.
 Record your group number, members, and revision date here.
 
 Replace the guidance below with your group's answers. Keep the six sections
-and aim for 300-400 words total. Link evidence IDs to `interview-notes.md`.
+and aim for 300-400 words total. Refer to specific details from `interview-notes.md`.
 
 ## 1. Who has the problem?
 

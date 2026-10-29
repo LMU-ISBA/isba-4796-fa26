@@ -4,9 +4,9 @@ ISBA 4796 | October 29, 2026 | 9:55-11:35 AM | Hilton 106
 
 A family-law firm wants help preparing hearing binders containing documents
 its attorneys need. Staff need the materials ready by 3 PM the day before a
-hearing. Greg will play the office manager.
+hearing. The instructor will play the office manager.
 
-Interview him to understand how preparation works, where difficulties occur,
+Interview the instructor to understand how preparation works, where difficulties occur,
 and what improvement would mean. Understand the problem before proposing a
 solution. The case is anonymous, and any example documents are fictional.
 
@@ -16,7 +16,7 @@ reviews the proposal, and prepares to answer questions during the defense.
 
 ## What you'll produce
 
-- Record evidence, interpretations, and open questions in `interview-notes.md`.
+- Capture brief interview notes and open questions in `interview-notes.md`.
 - Develop a one-page initial product brief in `PRD.md`.
 - Create `mockup.html` to illustrate your proposal and test an assumption.
 - Commit a draft before presenting and a revision after feedback.
@@ -24,17 +24,6 @@ reviews the proposal, and prepares to answer questions during the defense.
 Your brief is an early PRD. You won't create a separate project charter,
 feature spec, or implementation plan today. This exercise prepares you for
 your capstone proposal without adding a new graded assignment.
-
-## 9:55-10:00: Review the internship option
-
-An internship used for your capstone should have been secured by October 22.
-Confirm your status with Greg. Be ready to explain the problem you could
-address through the internship and who could validate your work.
-
-The internship itself doesn't define the capstone proposal. You'll still need
-a stakeholder-confirmed problem, a measure of success, and the course deliverables.
-If you didn't secure an internship by the deadline, you'll receive a project
-assignment on November 12.
 
 ## 10:00-10:10: Set up your group repo
 
@@ -45,7 +34,7 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 2. Select "Use this template," then "Create a new repository."
 3. Choose the driver's account as the owner.
 4. Name the repo `isba-4796-hearing-prep-g1`, replacing `g1` with your group number.
-5. Use the visibility Greg specifies.
+5. Use the visibility the instructor specifies.
 6. Create the repository from the template.
 7. Copy your new repo's URL from its "Code" menu.
 8. Open a terminal in your usual project folder.
@@ -55,17 +44,17 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 12. Open a terminal in that folder and start Claude Code.
 
 Check that the folder contains `CLAUDE.md`, `README.md`, `interview-notes.md`,
-and `PRD.md`. Ask for help if access fails. Continue with local files if Greg
+and `PRD.md`. Ask for help if access fails. Continue with local files if the instructor
 calls the fallback, so setup doesn't consume the interview.
 
 ## 10:10-10:35: Interview and agree on the problem
 
 Use the first three minutes to prepare an opening question and possible
-follow-ups. The class interviews Greg for twelve minutes using Example,
-Explore, Reflect, and Next. Let his answers guide your next question.
+follow-ups. The class interviews the instructor for twelve minutes using Example,
+Explore, Reflect, and Next. Let the answers guide your next question.
 
-Record brief notes during the interview. Give evidence statements IDs such as
-E1 and E2. Use quotation marks only for words you recorded accurately.
+Record short bullets in `interview-notes.md` during the interview.
+Use quotation marks only for words you recorded accurately.
 
 After the interview, spend five minutes answering these questions without AI:
 
@@ -82,25 +71,9 @@ Use this prompt in Claude Code after checking your interview notes together:
 
 ```text
 /superpowers:brainstorming
-Read CLAUDE.md, interview-notes.md, and PRD.md.
-Help our group develop the shared problem into an initial product brief.
-Keep the six sections in PRD.md and aim for 300-400 words total.
-
-Use our interview evidence, with its E IDs, as the case context.
-Separate evidence from interpretation and assumptions.
-Ask the questions that would most change our product decision, one at a time.
-When we don't know an answer, record how we could validate it.
-
-Compare two or three approaches, including a simpler process change.
-Explain trade-offs and let us choose before writing the brief.
-Propose a success measure without inventing a baseline or agreed target.
-Record our selected approach, scope, and unresolved assumptions in PRD.md.
-Ask us to review the brief and correct your interpretation.
-
-This is a classroom adaptation of brainstorming.
-Write only PRD.md. Keep the interview record unchanged.
-Stop at the initial product brief. Do not create another spec or plan.
-Do not implement software, commit, or push.
+Read interview-notes.md and help us understand the problem.
+Ask us one question at a time to explore possible approaches and what we still need to learn.
+Once we agree on an approach, draft PRD.md for our review.
 ```
 
 Read the result together before accepting it. Correct claims that go beyond
@@ -168,7 +141,7 @@ question, even if someone else presents.
 
 ## 11:25-11:32: Revise and push
 
-Record feedback in the feedback section of `interview-notes.md`. Explain which
+Add brief feedback notes to `interview-notes.md`. Explain which
 change you accepted or rejected and why. Revise the brief and mockup together
 so they still describe the same proposal.
 
@@ -181,19 +154,19 @@ git status
 ```
 
 Check the GitHub repo for the latest commit and revised files. A clean local
-status alone doesn't confirm that your push succeeded. Share the repo URL with
-Greg through the submission location he announces.
+status alone doesn't confirm that your push succeeded. Share the repo URL
+through the submission location your instructor announces.
 
 ## 11:32-11:35: Reflect individually
 
 Write two or three sentences explaining one choice, the evidence behind it,
-and what would change your mind. Submit your own response where Greg directs.
+and what would change your mind. Submit your own response where the instructor directs.
 
 ## If the tools fail
 
 Discuss the six PRD questions as a group and write the brief manually. Sketch
 the proposal on paper if the mockup can't be generated. Keep your local work
-if GitHub is unavailable, and tell Greg which step needs follow-up.
+if GitHub is unavailable, and tell the instructor which step needs follow-up.
 
 If you couldn't clone the repo, save the files without running the Git commands.
-Greg will help you complete that step later.
+The instructor will help you complete that step later.

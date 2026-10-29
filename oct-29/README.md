@@ -4,7 +4,7 @@ The session runs Thursday, October 29, 2026, from 9:55 to 11:35 AM in Hilton 106
 
 The session opens with the internship capstone option and the October 22
 deadline. Students then interview an anonymous family-law firm's office manager,
-played by Greg. Each group develops an initial product brief with Superpowers,
+played by the instructor. Each group develops an initial product brief with Superpowers,
 illustrates its proposal, and defends its choices.
 
 ## Start here
