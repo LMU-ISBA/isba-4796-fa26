@@ -14,6 +14,10 @@ You'll work in four groups, with five or six students per group. Choose one
 driver to operate the computer throughout class. Everyone contributes questions,
 reviews the proposal, and prepares to answer questions during the defense.
 
+## Group members
+
+Replace this line with your group number and every group member's full name.
+
 ## What you'll produce
 
 - Develop a one-page initial product brief in `PRD.md`.
@@ -34,7 +38,7 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 2. Select "Use this template," then "Create a new repository."
 3. Choose the driver's account as the owner.
 4. Name the repo `isba-4796-hearing-prep-g1`, replacing `g1` with your group number.
-5. Use the visibility the instructor specifies.
+5. Set the repository visibility to "Public".
 6. Create the repository from the template.
 7. Copy your new repo's URL from its "Code" menu.
 8. Open a terminal in your usual project folder.
@@ -43,6 +47,8 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 11. Open the cloned folder in your editor.
 12. Open a terminal in that folder and start Claude Code.
 
+Add every group member's full name to the "Group members" section of this README.
+
 Check that the folder contains `CLAUDE.md`, `README.md`, and `PRD.md`.
 Ask for help if access fails. Continue with local files if the instructor
 calls the fallback, so setup doesn't consume the interview.
@@ -50,8 +56,12 @@ calls the fallback, so setup doesn't consume the interview.
 ## 10:10-10:35: Interview and agree on the problem
 
 Use the first three minutes to prepare an opening question and possible
-follow-ups. The class interviews the instructor for twelve minutes using Example,
-Explore, Reflect, and Next. Let the answers guide your next question.
+follow-ups. There is one twelve-minute interview for the whole class, using
+Example, Explore, Reflect, and Next.
+
+One group asks the opening question. All four groups contribute follow-up
+questions and take their own notes. The instructor calls on different groups
+as the conversation develops. Let the answers guide your next question.
 
 Take brief notes in any app you prefer during the interview.
 Use quotation marks only for words you recorded accurately.
@@ -98,9 +108,9 @@ check that it agrees with your brief. Use the remaining time to save a commit.
 Ask Claude Code to help save your draft:
 
 ```text
-Show us the changes in PRD.md and mockup.html and explain what will be committed.
+Show us the changes in README.md, PRD.md, and mockup.html and explain what will be committed.
 Wait for our review, then commit with the message "Draft product brief and concept mockup" and push to GitHub.
-If mockup.html doesn't exist, commit only PRD.md.
+If mockup.html doesn't exist, commit only README.md and PRD.md.
 ```
 
 Review the changes together before telling Claude Code to proceed.
@@ -108,9 +118,11 @@ Review the changes together before telling Claude Code to proceed.
 A commit saves a local checkpoint. Pushing copies it to GitHub. If pushing
 fails, keep the local commit and ask for help.
 
-Check the GitHub repo for the latest commit and draft files. A clean local
-status alone doesn't confirm that your push succeeded. Share the repo URL
-through the submission location your instructor announces.
+Check the public GitHub repo for the latest commit and draft files. Confirm
+that the README lists every group member's full name.
+
+One person per group posts the public repo link in the class Teams channel:
+https://teams.microsoft.com/l/channel/19%3AHOfl44oya2Y6zy3jfQOg03qdCjWxwXusvxTkwHqaHkY1%40thread.tacv2/General?groupId=03a3e50e-3b80-4675-904e-11651fc51b6d&tenantId=0376eb4b-c206-4056-9061-e342dc2ecda8
 
 ## 11:05-11:25: Present and defend
 

@@ -16,10 +16,15 @@ During class, create your group repository from this template:
 https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 
 The template contains a README, Claude instructions, and an initial PRD template.
+All four groups contribute questions during one whole-class interview.
 Take notes in any app and paste them into the brainstorming prompt.
 You'll create `mockup.html` during class and defend your proposal.
 Finish with an individual reflection on your decision and next steps.
 Your proposal remains a draft with assumptions to test.
+
+List every group member's full name in your public repo's README.
+One person per group posts the repo link in the class Teams channel:
+https://teams.microsoft.com/l/channel/19%3AHOfl44oya2Y6zy3jfQOg03qdCjWxwXusvxTkwHqaHkY1%40thread.tacv2/General?groupId=03a3e50e-3b80-4675-904e-11651fc51b6d&tenantId=0376eb4b-c206-4056-9061-e342dc2ecda8
 
 We've reserved ten minutes for repository setup during class. The driver needs
 Git, GitHub access, Claude Code, and Superpowers ready on their laptop.
