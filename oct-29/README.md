@@ -2,15 +2,15 @@
 
 The session runs Thursday, October 29, 2026, from 9:55 to 11:35 AM in Hilton 106.
 
-The session opens with the internship capstone option and the October 22
-deadline. Students then interview an anonymous family-law firm's office manager,
+The session opens with an announcement about next week's project and internship
+survey. Students then interview an anonymous family-law firm's office manager,
 played by the instructor. Each group develops an initial product brief with Superpowers,
 illustrates its proposal, and defends its choices.
 
 ## Start here
 
-Read [the student instructions](starter/README.md) for the agenda, prompts,
-and prompts for saving work with Git. Choose one driver per group to operate the computer.
+Read [the student instructions](starter/README.md) for the agenda and Claude Code
+prompts, including how to save work with Git. Choose one driver per group to operate the computer.
 
 During class, create your group repository from this template:
 https://github.com/LMU-ISBA/isba-4796-hearing-prep-template

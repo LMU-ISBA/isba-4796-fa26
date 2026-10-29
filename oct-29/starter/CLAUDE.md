@@ -38,13 +38,12 @@ classroom draft, not stakeholder validation or authorization to build.
 ## Mockup
 
 Create `mockup.html` only when students explicitly request it. This is a
-throwaway discovery mockup, not product implementation. Agree on the assumption
-it will help examine before writing it.
+throwaway discovery mockup, not product implementation. Ask what students want
+to show and wait for their response before creating it.
 
 Use one HTML file with fictional data and inline styles. It must open directly
 in a browser without external assets, a server, or installed dependencies.
-Clearly label simulated behavior. Include the assumption and a stakeholder
-question, and keep the mockup consistent with `PRD.md`.
+Keep the mockup consistent with `PRD.md`.
 
 ## File and Git boundaries
 

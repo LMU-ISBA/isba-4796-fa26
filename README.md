@@ -33,8 +33,8 @@ room.
 
 ## October 29: From discovery to a product brief
 
-Start with the [session instructions](oct-29/README.md). We'll discuss the
-internship capstone option, interview a stakeholder, and develop an initial
+Start with the [session instructions](oct-29/README.md). We'll announce next
+week's project and internship survey, interview a stakeholder, and develop an initial
 product brief with an HTML mockup. Each group will defend its proposal, followed by individual reflections.
 
 One driver per group will create and clone a repository during class using

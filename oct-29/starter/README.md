@@ -10,8 +10,8 @@ Interview the instructor to understand how preparation works, where difficulties
 and what improvement would mean. Understand the problem before proposing a
 solution. The case is anonymous, and any example documents are fictional.
 
-You'll work in four groups, with five or six students per group. Choose one
-driver to operate the computer throughout class. Everyone contributes questions,
+You'll work in four groups: two groups of five and two groups of six. Choose
+one driver to operate the computer throughout class. Everyone contributes questions,
 reviews the proposal, and prepares to answer questions during the defense.
 
 ## Group members
@@ -52,6 +52,9 @@ Add every group member's full name to the "Group members" section of this README
 Check that the folder contains `CLAUDE.md`, `README.md`, and `PRD.md`.
 Ask for help if access fails. Continue with local files if the instructor
 calls the fallback, so setup doesn't consume the interview.
+
+At 10:10, move into interview preparation even if setup isn't finished.
+You can take notes in any app while technical issues are resolved.
 
 ## 10:10-10:35: Interview and agree on the problem
 
@@ -151,7 +154,8 @@ Keep this reflection in your own notes. No submission is required.
 
 ## If the tools fail
 
-Discuss the six PRD questions as a group and write the brief manually. Sketch
+If one laptop fails, switch drivers. If Claude is unavailable, discuss the six
+PRD questions as a group and write the brief manually. Sketch
 the proposal on paper if the mockup can't be generated. Keep your local work
 if GitHub is unavailable, and tell the instructor which step needs follow-up.
 
