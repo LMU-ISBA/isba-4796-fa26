@@ -17,7 +17,9 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 
 The template contains a README, Claude instructions, and an initial PRD template.
 Take notes in any app and paste them into the brainstorming prompt.
-You'll create `mockup.html` during class and revise the brief after your defense. Your proposal remains a draft with assumptions to test.
+You'll create `mockup.html` during class and defend your proposal.
+Finish with an individual reflection on your decision and next steps.
+Your proposal remains a draft with assumptions to test.
 
 We've reserved ten minutes for repository setup during class. The driver needs
 Git, GitHub access, Claude Code, and Superpowers ready on their laptop.

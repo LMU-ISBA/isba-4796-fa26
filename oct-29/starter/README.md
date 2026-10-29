@@ -18,7 +18,8 @@ reviews the proposal, and prepares to answer questions during the defense.
 
 - Develop a one-page initial product brief in `PRD.md`.
 - Create `mockup.html` to illustrate your proposal and test an assumption.
-- Commit a draft before presenting and a revision after feedback.
+- Commit and push your draft before presenting.
+- Write an individual reflection after the discussion.
 
 Your brief is an early PRD. You won't create a separate project charter,
 feature spec, or implementation plan today. This exercise prepares you for
@@ -107,6 +108,10 @@ Review the changes together before telling Claude Code to proceed.
 A commit saves a local checkpoint. Pushing copies it to GitHub. If pushing
 fails, keep the local commit and ask for help.
 
+Check the GitHub repo for the latest commit and draft files. A clean local
+status alone doesn't confirm that your push succeeded. Share the repo URL
+through the submission location your instructor announces.
+
 ## 11:05-11:25: Present and defend
 
 Each group has two minutes to present and three minutes for questions. Show
@@ -117,28 +122,20 @@ Explain the problem, the supporting evidence, and why you chose this approach.
 Name an assumption you still need to test. Any group member may receive a
 question, even if someone else presents.
 
-## 11:25-11:32: Revise and push
+## 11:25-11:32: Continue presentations and questions
 
-Capture feedback in your notes app. Discuss which changes to accept or reject
-and why. Revise the brief and mockup together so they still describe the
-same proposal.
-
-Ask Claude Code to save the revision:
-
-```text
-Show us what changed in our brief and mockup since the last commit.
-Wait for our review, then commit the revised files with the message "Revise proposal after class feedback" and push to GitHub.
-Confirm whether the push succeeded.
-```
-
-Check the GitHub repo for the latest commit and revised files. A clean local
-status alone doesn't confirm that your push succeeded. Share the repo URL
-through the submission location your instructor announces.
+This time is reserved for presentation overflow and additional questions.
+Capture useful feedback in your notes for the reflection.
 
 ## 11:32-11:35: Reflect individually
 
-Write two or three sentences explaining one choice, the evidence behind it,
-and what would change your mind. Submit your own response where the instructor directs.
+Write two or three sentences without AI:
+
+> What's one decision your group made, and what did you hear in the interview
+> that supports it? After the discussion, what would you change or investigate
+> next, and why?
+
+Submit your own response where the instructor directs.
 
 ## If the tools fail
 

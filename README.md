@@ -35,7 +35,7 @@ room.
 
 Start with the [session instructions](oct-29/README.md). We'll discuss the
 internship capstone option, interview a stakeholder, and develop an initial
-product brief with an HTML mockup. Each group will defend and revise its proposal.
+product brief with an HTML mockup. Each group will defend its proposal, followed by individual reflections.
 
 One driver per group will create and clone a repository during class using
 this template:
