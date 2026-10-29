@@ -1,6 +1,6 @@
 # From discovery to a product brief
 
-ISBA 4796 | October 29, 2026 | 9:55-11:35 AM | Hilton 106
+ISBA 4796 | October 29, 2026 | Hilton 106
 
 A family-law firm wants help preparing hearing binders containing documents
 its attorneys need. Staff need the materials ready by 3 PM the day before a
@@ -29,7 +29,7 @@ Your brief is an early PRD. You won't create a separate project charter,
 feature spec, or implementation plan today. This exercise prepares you for
 your capstone proposal without adding a new graded assignment.
 
-## 10:00-10:10: Set up your group repo
+## Set up your group repo
 
 Only the driver needs to clone the repo. Start with this template:
 https://r.isba.co/hearing-prep
@@ -53,15 +53,15 @@ Check that the folder contains `CLAUDE.md`, `README.md`, and `PRD.md`.
 Ask for help if access fails. Continue with local files if the instructor
 calls the fallback, so setup doesn't consume the interview.
 
-At 10:10, move into interview preparation even if setup isn't finished.
+When the instructor starts interview preparation, join even if setup isn't finished.
 You can take notes in any app while technical issues are resolved.
 
-## 10:10-10:35: Interview and agree on the problem
+## Interview and agree on the problem
 
 EXAMPLE → EXPLORE → REFLECT → NEXT
 
-Use the first three minutes to prepare an opening question and possible
-follow-ups. There is one twelve-minute interview for the whole class.
+Prepare an opening question and possible follow-ups.
+There is one interview for the whole class.
 
 One group asks the opening question. All four groups contribute follow-up
 questions and take their own notes. The instructor calls on different groups
@@ -70,16 +70,16 @@ as the conversation develops. Let the answers guide your next question.
 Take brief notes in any app you prefer during the interview.
 Use quotation marks only for words you recorded accurately.
 
-After the interview, spend five minutes answering these questions without AI:
+After the interview, discuss these questions without AI:
 
 - Who is having difficulty, and what are they trying to do?
 - What did we hear that supports our interpretation?
 - What do we still need to confirm?
 
-The class then has five minutes to agree on one shared problem. Record that
+The class then agrees on one shared problem. Record that
 statement in your notes. Groups may propose different solutions to it.
 
-## 10:35-10:55: Develop the product brief
+## Develop the product brief
 
 Review your notes together, then paste them at the end of this prompt in
 Claude Code:
@@ -97,7 +97,7 @@ Read the result together before accepting it. Correct claims that go beyond
 your evidence, and explain why you chose this approach. The group's agreement
 doesn't establish that a real stakeholder has validated the proposal.
 
-## 10:55-11:05: Visualize and commit the draft
+## Visualize and commit the draft
 
 After reviewing the brief, use this prompt:
 
@@ -106,8 +106,8 @@ Read PRD.md and suggest a simple visual that would help us explain our proposal.
 Ask us what we want to show before creating a single mockup.html file with fictional data.
 ```
 
-Spend at most eight minutes on the mockup. Open `mockup.html` in a browser and
-check that it agrees with your brief. Use the remaining time to save a commit.
+Keep the mockup simple. Open `mockup.html` in a browser and
+check that it agrees with your brief. Then save a commit.
 
 Ask Claude Code to help save your draft:
 
@@ -128,9 +128,9 @@ that the README lists every group member's full name.
 One person per group posts the public repo link in the class Teams channel:
 https://r.isba.co/4796-teams-fa26
 
-## 11:05-11:25: Present and defend
+## Present and defend
 
-Each group has two minutes to present and three minutes for questions. Show
+Each group presents its proposal and answers questions. Show
 the mockup while explaining the choices in your brief. Keep the brief available
 for reference, and answer questions in your own words without asking Claude.
 
@@ -138,12 +138,12 @@ Explain the problem, the supporting evidence, and why you chose this approach.
 Name an assumption you still need to test. Any group member may receive a
 question, even if someone else presents.
 
-## 11:25-11:32: Continue presentations and questions
+## Continue presentations and questions
 
-This time is reserved for presentation overflow and additional questions.
+Continue with any remaining presentations and questions.
 Capture useful feedback in your notes for the reflection.
 
-## 11:32-11:35: Reflect individually
+## Reflect individually
 
 Write two or three sentences without AI:
 

@@ -1,6 +1,6 @@
 # October 29: From discovery to a product brief
 
-The session runs Thursday, October 29, 2026, from 9:55 to 11:35 AM in Hilton 106.
+The class meets Thursday, October 29, 2026, in Hilton 106.
 
 The session opens with an announcement about next week's project and internship
 survey. Students then interview an anonymous family-law firm's office manager,
@@ -13,20 +13,21 @@ Read [the student instructions](starter/README.md) for the agenda and Claude Cod
 prompts, including how to save work with Git. Choose one driver per group to operate the computer.
 
 During class, create your group repository from this template:
-https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
+https://r.isba.co/hearing-prep
 
 The template contains a README, Claude instructions, and an initial PRD template.
 All four groups contribute questions during one whole-class interview.
 Take notes in any app and paste them into the brainstorming prompt.
 You'll create `mockup.html` during class and defend your proposal.
 Finish with an individual reflection on your decision and next steps.
+Keep it in your own notes. No reflection submission is required.
 Your proposal remains a draft with assumptions to test.
 
 List every group member's full name in your public repo's README.
 One person per group posts the repo link in the class Teams channel:
-https://teams.microsoft.com/l/channel/19%3AHOfl44oya2Y6zy3jfQOg03qdCjWxwXusvxTkwHqaHkY1%40thread.tacv2/General?groupId=03a3e50e-3b80-4675-904e-11651fc51b6d&tenantId=0376eb4b-c206-4056-9061-e342dc2ecda8
+https://r.isba.co/4796-teams-fa26
 
-We've reserved ten minutes for repository setup during class. The driver needs
+You'll set up your group repository during class. The driver needs
 Git, GitHub access, Claude Code, and Superpowers ready on their laptop.
 
 ## Course fit
