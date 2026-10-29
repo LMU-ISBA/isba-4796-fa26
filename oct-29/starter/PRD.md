@@ -1,8 +1,8 @@
 # Initial product brief
 
-Project: [Project name]
-Team: [Team members]
-Updated: [Date]
+Project: [Project name]<br>
+Team: [Team members]<br>
+Updated: [Date]<br>
 Status: Draft
 
 Replace the guidance with short paragraphs or bullets. Start with roughly one
