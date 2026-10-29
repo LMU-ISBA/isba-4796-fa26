@@ -16,7 +16,6 @@ reviews the proposal, and prepares to answer questions during the defense.
 
 ## What you'll produce
 
-- Capture brief interview notes and open questions in `interview-notes.md`.
 - Develop a one-page initial product brief in `PRD.md`.
 - Create `mockup.html` to illustrate your proposal and test an assumption.
 - Commit a draft before presenting and a revision after feedback.
@@ -43,8 +42,8 @@ https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 11. Open the cloned folder in your editor.
 12. Open a terminal in that folder and start Claude Code.
 
-Check that the folder contains `CLAUDE.md`, `README.md`, `interview-notes.md`,
-and `PRD.md`. Ask for help if access fails. Continue with local files if the instructor
+Check that the folder contains `CLAUDE.md`, `README.md`, and `PRD.md`.
+Ask for help if access fails. Continue with local files if the instructor
 calls the fallback, so setup doesn't consume the interview.
 
 ## 10:10-10:35: Interview and agree on the problem
@@ -53,7 +52,7 @@ Use the first three minutes to prepare an opening question and possible
 follow-ups. The class interviews the instructor for twelve minutes using Example,
 Explore, Reflect, and Next. Let the answers guide your next question.
 
-Record short bullets in `interview-notes.md` during the interview.
+Take brief notes in any app you prefer during the interview.
 Use quotation marks only for words you recorded accurately.
 
 After the interview, spend five minutes answering these questions without AI:
@@ -67,13 +66,16 @@ statement in your notes. Groups may propose different solutions to it.
 
 ## 10:35-10:55: Develop the product brief
 
-Use this prompt in Claude Code after checking your interview notes together:
+Review your notes together, then paste them at the end of this prompt in
+Claude Code:
 
 ```text
 /superpowers:brainstorming
-Read interview-notes.md and help us understand the problem.
+Read our interview notes below and help us understand the problem.
 Ask us one question at a time to explore possible approaches and what we still need to learn.
 Once we agree on an approach, draft PRD.md for our review.
+
+[Paste your group's interview notes here]
 ```
 
 Read the result together before accepting it. Correct claims that go beyond
@@ -113,7 +115,7 @@ If you used a paper sketch, describe it in your notes first. Omit
 ```bash
 git status
 git diff
-git add interview-notes.md PRD.md mockup.html
+git add PRD.md mockup.html
 git diff --cached
 ```
 
@@ -141,9 +143,9 @@ question, even if someone else presents.
 
 ## 11:25-11:32: Revise and push
 
-Add brief feedback notes to `interview-notes.md`. Explain which
-change you accepted or rejected and why. Revise the brief and mockup together
-so they still describe the same proposal.
+Capture feedback in your notes app. Discuss which changes to accept or reject
+and why. Revise the brief and mockup together so they still describe the
+same proposal.
 
 Repeat the review and staging commands above. Then save the revision:
 

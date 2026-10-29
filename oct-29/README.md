@@ -15,9 +15,9 @@ and Git commands. Choose one driver per group to operate the computer.
 During class, create your group repository from this template:
 https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
 
-The template contains a README, Claude instructions, interview notes, and an
-initial PRD template. You'll create `mockup.html` during class and revise the
-brief after your defense. Your proposal remains a draft with assumptions to test.
+The template contains a README, Claude instructions, and an initial PRD template.
+Take notes in any app and paste them into the brainstorming prompt.
+You'll create `mockup.html` during class and revise the brief after your defense. Your proposal remains a draft with assumptions to test.
 
 We've reserved ten minutes for repository setup during class. The driver needs
 Git, GitHub access, Claude Code, and Superpowers ready on their laptop.
