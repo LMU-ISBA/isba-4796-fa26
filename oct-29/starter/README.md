@@ -87,21 +87,8 @@ doesn't establish that a real stakeholder has validated the proposal.
 After reviewing the brief, use this prompt:
 
 ```text
-We have reviewed our initial PRD.md for this classroom exercise.
-Read it and propose one assumption a visual mockup could help us test.
-Wait for our agreement on that assumption before creating the mockup.
-
-Then create one self-contained mockup.html illustrating our proposed approach.
-Use a simple screen or workflow with fictional data and inline styles.
-It must open directly in a browser without a server or downloaded assets.
-Label it "Concept mockup: fictional data, behavior not validated."
-State the assumption and one question we would ask a stakeholder.
-Use labels for controls that do not actually work.
-Do not add capabilities beyond PRD.md without asking us.
-
-This throwaway mockup is the only authorized code artifact.
-Do not build the product, connect services, or install dependencies.
-Do not create an implementation plan, commit, push, or deploy.
+Read PRD.md and suggest a simple visual that would help us explain our proposal.
+Ask us what we want to show before creating a single mockup.html file with fictional data.
 ```
 
 Spend at most eight minutes on the mockup. Open `mockup.html` in a browser and
