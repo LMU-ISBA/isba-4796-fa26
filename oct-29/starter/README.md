@@ -147,7 +147,7 @@ Write two or three sentences without AI:
 > that supports it? After the discussion, what would you change or investigate
 > next, and why?
 
-Submit your own response where the instructor directs.
+Keep this reflection in your own notes. No submission is required.
 
 ## If the tools fail
 
