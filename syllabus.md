@@ -93,8 +93,6 @@ interview, using the prompt at self-discovery-interview.md in this repository
 - AI Dev Workflow Tutorial - your public repository URL, your live Streamlit
 dashboard URL, and your completed TASKS.md
 - Scrum Open Assessment - your completed assessment from scrum.org
-- Practice wiki - your own research wiki on the practice case, built with your
-agent from week 2 onward, with its raw sources, index, and log
 - Development environment and capstone repository - your team's repository URL,
 built from scratch, with your environment set up and your teammates added
 - Stakeholder confirmation - written confirmation from your stakeholder that you
@@ -108,7 +106,7 @@ capstone repository
 - PRD - your problem brief and the PRD it becomes. You turn in a draft at the
 stand-up, and you present the final version at the sprint review
 
-The first four are individual. The rest belong to your team, or to you alone if
+The first three are individual. The rest belong to your team, or to you alone if
 your capstone is an internship.
 
 The capstone repository is not the tutorial. The AI Dev Workflow Tutorial at
@@ -123,21 +121,21 @@ environment set up from nothing.
 
 ## Grading
 
-A 1000-point scheme. Every point is a tenth of a percent.
+A 950-point scheme. Your percentage is your earned points divided by 950,
+multiplied by 100. The percentages below are rounded to two decimal places.
 
 
 | Component                                       | Points   | %       |
 | ----------------------------------------------- | -------- | ------- |
-| Self-discovery interview                        | 25       | 2.5     |
-| AI Dev Workflow Tutorial                        | 150      | 15.0    |
-| Scrum Open Assessment                           | 75       | 7.5     |
-| Practice wiki                                   | 50       | 5.0     |
-| Development environment and capstone repository | 100      | 10.0    |
-| Stakeholder confirmation                        | 100      | 10.0    |
-| Capstone wiki                                   | 50       | 5.0     |
-| Sprint cycle and review                         | 250      | 25.0    |
-| PRD                                             | 200      | 20.0    |
-| **Total**                                       | **1000** | **100** |
+| Self-discovery interview                        | 25       | 2.63    |
+| AI Dev Workflow Tutorial                        | 150      | 15.79   |
+| Scrum Open Assessment                           | 75       | 7.89    |
+| Development environment and capstone repository | 100      | 10.53   |
+| Stakeholder confirmation                        | 100      | 10.53   |
+| Capstone wiki                                   | 50       | 5.26    |
+| Sprint cycle and review                         | 250      | 26.32   |
+| PRD                                             | 200      | 21.05   |
+| **Total**                                       | **950**  | **100** |
 
 
 **Grade scale:** A (93-100), A- (90-92), B+ (87-89), B (83-86), B- (80-82),  
@@ -156,7 +154,7 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 | 6    | Oct 5 to 9      | no                                                                                  | Scrum, continued: drilling the Guide                                                                                                                     | Scrum Open Assessment (Thu Oct 8)                                            |
 | 7    | Oct 12 to 16    | no                                                                                  | Working with an AI coding agent                                                                                                                          | none                                                                         |
 | 8    | Oct 19 to 23    | no                                                                                  | Scope, non-scope, and success measures. Choosing your capstone project                                                                                   | **Internship secured (Thu Oct 22)**                                          |
-| 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                                                          | Writing the PRD                                                                                                                                          | Practice wiki (Thu Oct 29)                                                   |
+| 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                                                          | Writing the PRD                                                                                                                                          | none                                                                         |
 | 10   | Nov 2 to 6      | no                                                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
 | 11   | Nov 9 to 13     | **Thu Nov 12, joint with ISBA 3720, in Hilton 106**                                 | Agile and Scrum in practice. Project briefs go out and teams form                                                                                        | **Projects assigned, teams form (Thu Nov 12)**                               |
 | 12   | Nov 16 to 20    | **Thu Nov 19, sprint planning, Hilton 106**                                         | Planning your sprint                                                                                                                                     | Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19) |

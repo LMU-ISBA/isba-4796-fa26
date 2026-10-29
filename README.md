@@ -31,6 +31,16 @@ Plus one 15-minute individual meeting on Zoom in week 2, which you book.
 Both joint sessions put you in Hilton 106 with ISBA 3720 on Zoom. Come to the
 room.
 
+## October 29: From discovery to a product brief
+
+Start with the [session instructions](oct-29/README.md). We'll discuss the
+internship capstone option, interview a stakeholder, and develop an initial
+product brief with an HTML mockup. Each group will defend and revise its proposal.
+
+One driver per group will create and clone a repository during class using
+this template:
+https://github.com/LMU-ISBA/isba-4796-hearing-prep-template
+
 ## October 1: Discovery and stakeholder engagement
 
 Use these worksheets on your computer; no printouts are needed.
@@ -53,7 +63,6 @@ location announced in class. Downloading does not submit your work.
 | Tue Sep 8 | [Self-discovery interview](self-discovery-interview.md) |
 | Tue Sep 22 | AI Dev Workflow Tutorial |
 | Thu Oct 22 | Internship secured |
-| Thu Oct 29 | Practice wiki |
 | Thu Nov 12 | Projects assigned and teams form |
 | Fri Nov 13 | Last day to withdraw |
 | Thu Nov 19 | Stakeholder confirmation |
