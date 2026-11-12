@@ -9,7 +9,7 @@ Fall 2026
 | Format         | In person                                                                                    |
 | Credit hours   | 1                                                                                            |
 | Scheduled slot | Tuesdays and Thursdays, 9:55 to 11:35 AM. We meet on Thursdays only, and not every Thursday. |
-| Room           | Hilton 106, every session. ISBA 3720 joins the two joint sessions on Zoom                    |
+| Room           | Hilton 106. The Thu Nov 19 joint session with ISBA 3720 is in Hilton 115                     |
 
 
 ## Course description
@@ -57,8 +57,9 @@ By the end of this course you will be able to:
 
 ## Instructional methods
 
-The course meets eight times, always on a Thursday, in Hilton 106. Two of those
-sessions run jointly with ISBA 3720, which joins on Zoom. You also book one
+The course meets seven times, always on a Thursday. Two of those sessions run
+jointly with ISBA 3720, on Thu Sep 3 and Thu Nov 19. We meet in Hilton 106,
+except on Nov 19, when we meet in Hilton 115. You also book one
 15-minute individual meeting with me on Zoom in week 2.
 
 Between sessions you work through asynchronous modules in Brightspace. That is
@@ -156,8 +157,8 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 | 8    | Oct 19 to 23    | no                                                                                  | Scope, non-scope, and success measures. Choosing your capstone project                                                                                   | **Internship secured (Thu Oct 22)**                                          |
 | 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                                                          | Writing the PRD                                                                                                                                          | none                                                                         |
 | 10   | Nov 2 to 6      | no                                                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
-| 11   | Nov 9 to 13     | **Thu Nov 12, joint with ISBA 3720, in Hilton 106**                                 | Agile and Scrum in practice. Project briefs go out and teams form                                                                                        | **Projects assigned, teams form (Thu Nov 12)**                               |
-| 12   | Nov 16 to 20    | **Thu Nov 19, sprint planning, Hilton 106**                                         | Planning your sprint                                                                                                                                     | Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19) |
+| 11   | Nov 9 to 13     | no. The Thu Nov 12 session is canceled                                              | Agile and Scrum in practice                                                                                                                              | none                                                                         |
+| 12   | Nov 16 to 20    | **Thu Nov 19, joint with ISBA 3720, in Hilton 115**                                 | Planning your sprint. Projects are assigned, teams form, and each project gets a faculty advisor                                                         | **Projects assigned, teams form (Thu Nov 19).** Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19)|
 | 13   | Nov 23 to 27    | no                                                                                  | Thanksgiving. Your sprint runs, but we do not meet                                                                                                       | none                                                                         |
 | 14   | Nov 30 to Dec 4 | **Thu Dec 3, stand-up, Hilton 106**                                                 | Running your sprint                                                                                                                                      | PRD draft (Thu Dec 3)                                                        |
 | 15   | Dec 7 to 11     | **Thu Dec 10, sprint review, Hilton 106**                                           | Closing your sprint, the retrospective, and handoff to ISBA 4797                                                                                         | Sprint review, capstone wiki, and final PRD (Thu Dec 10)                     |
@@ -165,13 +166,23 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 
 If you want to use an internship as your capstone, you have until Thu Oct 22 to
 secure one. If you do not have an internship by Oct 22, a project is assigned to
-you on Thu Nov 12.
+you on Thu Nov 19.
+
+Class is canceled on Thu Nov 12. Prof Mukherjee and I are still finalizing the
+spring capstone projects. By Thu Nov 19, we'll assign projects, form teams, and
+match each project with a faculty advisor.
+
+**Registering for ISBA 4797.** You cannot register for ISBA 4797 Capstone
+Project until your capstone proposal is approved and you're assigned a faculty
+advisor. Your advisor will determine which section you register for. Once you
+meet both requirements, we'll provide an instructor override so you can
+register.
 
 Fri Sep 4 is the last day to add or drop without a W. Fri Nov 13 is the last day
 to withdraw.
 
-**Sprint meetings** happen in our scheduled slot in Hilton 106, on Thu Nov 19,
-Thu Dec 3, and Thu Dec 10. Each team books a time within the slot for planning and
+**Sprint meetings** happen in our scheduled slot on Thu Nov 19, Thu Dec 3, and
+Thu Dec 10. Nov 19 is in Hilton 115, and the other two are in Hilton 106. Each team books a time within the slot for planning and
 the stand-up. The sprint review on Dec 10 works differently. Everyone stays for
 the whole slot, because the other teams are your audience. If your capstone is an
 internship you are working solo, you run your sprint on your own and meet me
@@ -213,7 +224,7 @@ plan.
 
 ## Attendance
 
-Your scheduled commitments are the eight sessions in the schedule above and your
+Your scheduled commitments are the seven sessions in the schedule above and your
 individual meeting in week 2.
 
 If you feel ill, stay home. Rest, and keep everyone else healthy.
@@ -246,7 +257,7 @@ are in that room for it once.
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-Between the eight sessions, Teams is the fastest way to reach me. Office hours
+Between the seven sessions, Teams is the fastest way to reach me. Office hours
 are bookable at https://calendly.com/greg-lontok
 
 You get feedback on each deliverable within one week of its due date. Feedback

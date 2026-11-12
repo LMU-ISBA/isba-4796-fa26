@@ -12,8 +12,9 @@ the first sprint of ISBA 4797.
 
 ## When we meet
 
-The course holds the Tuesday/Thursday 9:55 to 11:35 AM slot, and uses eight
-Thursdays. Keep the time free and come on these dates.
+The course holds the Tuesday/Thursday 9:55 to 11:35 AM slot, and uses seven
+Thursdays. Keep the time free and come on these dates. The Thu Nov 12 session
+is canceled.
 
 | Date | What | Room |
 |---|---|---|
@@ -21,15 +22,15 @@ Thursdays. Keep the time free and come on these dates.
 | Thu Sep 24 | Framing a problem worth solving, and the interview it exposes | Hilton 106 |
 | Thu Oct 1 | Discovery and stakeholder engagement | Hilton 106 |
 | Thu Oct 29 | Writing the PRD | Hilton 106 |
-| Thu Nov 12 | Agile and Scrum in practice. Project briefs go out and teams form. Joint with ISBA 3720 | Hilton 106 |
-| Thu Nov 19 | Sprint planning | Hilton 106 |
+| Thu Nov 12 | Canceled. Project briefs and team formation move to Thu Nov 19 | none |
+| Thu Nov 19 | Projects are assigned, teams form, and each project gets a faculty advisor. Sprint planning. Joint with ISBA 3720 | Hilton 115 |
 | Thu Dec 3 | Stand-up | Hilton 106 |
 | Thu Dec 10 | Sprint review and the retrospective | Hilton 106 |
 
 Plus one 15-minute individual meeting on Zoom in week 2, which you book.
 
-Both joint sessions put you in Hilton 106 with ISBA 3720 on Zoom. Come to the
-room.
+The second joint session with ISBA 3720 moved from Thu Nov 12 to Thu Nov 19, in
+Hilton 115.
 
 ## October 29: From discovery to a product brief
 
@@ -63,8 +64,8 @@ location announced in class. Downloading does not submit your work.
 | Tue Sep 8 | [Self-discovery interview](self-discovery-interview.md) |
 | Tue Sep 22 | AI Dev Workflow Tutorial |
 | Thu Oct 22 | Internship secured |
-| Thu Nov 12 | Projects assigned and teams form |
 | Fri Nov 13 | Last day to withdraw |
+| Thu Nov 19 | Projects assigned and teams form |
 | Thu Nov 19 | Stakeholder confirmation |
 | Thu Dec 10 | Capstone wiki and final PRD |
 
