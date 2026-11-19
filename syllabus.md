@@ -57,16 +57,17 @@ By the end of this course you will be able to:
 
 ## Instructional methods
 
-The course meets seven times, always on a Thursday. Two of those sessions run
+The course meets six times, always on a Thursday. Two of those sessions run
 jointly with ISBA 3720, on Thu Sep 3 and Thu Nov 19. We meet in Hilton 106,
 except on Nov 19, when we meet in Hilton 115. You also book one
 15-minute individual meeting with me on Zoom in week 2.
 
 Between sessions you work through asynchronous modules in Brightspace. That is
 where most of the reading happens. Three of our sessions work a single practice
-case, where I play the stakeholder and you interview me. The last three are your
-sprint: planning, a stand-up, and a review where every team presents to the
-others.
+case, where I play the stakeholder and you interview me. The last two are for
+your capstone project. On Nov 19 you get your project and your team. On Dec 10
+I ask each team about its work. In between, each of you commits a written
+stand-up on Thu Dec 3.
 
 You work with an AI coding agent throughout, and you keep a research wiki that
 the agent maintains for you.
@@ -94,18 +95,21 @@ interview, using the prompt at self-discovery-interview.md in this repository
 - AI Dev Workflow Tutorial - your public repository URL, your live Streamlit
 dashboard URL, and your completed TASKS.md
 - Scrum Open Assessment - your completed assessment from scrum.org
-- Development environment and capstone repository - your team's repository URL,
-built from scratch, with your environment set up and your teammates added
+- Development environment and capstone repository - your team's private
+repository, created from the capstone starter template on Thu Nov 19, with your
+teammates and your faculty advisor added
 - Stakeholder confirmation - written confirmation from your stakeholder that you
 are serving the right person, solving the right problem, and measuring the
-right thing
-- Sprint cycle and review - nothing to upload. You are observed at sprint
-planning and at the stand-up, and you present live and take questions at the
-review
-- Capstone wiki - your team's research wiki on your real project, in your
-capstone repository
-- PRD - your problem brief and the PRD it becomes. You turn in a draft at the
-stand-up, and you present the final version at the sprint review
+right thing, due Thu Dec 10. If your stakeholder moves the conversation to
+January, record that and show your attempts
+- Team process and recorded presentation - your team's TASKS.md kept current,
+your own stand-up committed to your capstone repository on Thu Dec 3, and a
+recorded presentation of five minutes or less in which every teammate speaks
+- PRD - your initial product brief and the preliminary PRD it becomes, with your
+stakeholder notes, due Thu Dec 10
+
+The capstone wiki moves to ISBA 4797 in the spring, because we didn't cover how
+to build one. Its 50 points are now part of the PRD, so the total stays at 950.
 
 The first three are individual. The rest belong to your team, or to you alone if
 your capstone is an internship.
@@ -117,8 +121,8 @@ toolchain: Git, GitHub, an AI coding agent, and a Streamlit dashboard deployed t
 a live URL.
 
 The capstone repository is your team doing it again but applied to your project.
-A repository named for your project, your teammates added to it, and a working
-environment set up from nothing.
+A private repository named for your project, created from the starter template,
+with your teammates and your faculty advisor added to it.
 
 ## Grading
 
@@ -133,9 +137,8 @@ multiplied by 100. The percentages below are rounded to two decimal places.
 | Scrum Open Assessment                           | 75       | 7.89    |
 | Development environment and capstone repository | 100      | 10.53   |
 | Stakeholder confirmation                        | 100      | 10.53   |
-| Capstone wiki                                   | 50       | 5.26    |
-| Sprint cycle and review                         | 250      | 26.32   |
-| PRD                                             | 200      | 21.05   |
+| Team process and recorded presentation          | 250      | 26.32   |
+| PRD                                             | 250      | 26.32   |
 | **Total**                                       | **950**  | **100** |
 
 
@@ -158,10 +161,10 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 | 9    | Oct 26 to 30    | **Thu Oct 29, Hilton 106**                                                          | Writing the PRD                                                                                                                                          | none                                                                         |
 | 10   | Nov 2 to 6      | no                                                                                  | Confirming with your stakeholder. User stories and estimation                                                                                            | none                                                                         |
 | 11   | Nov 9 to 13     | no. The Thu Nov 12 session is canceled                                              | Agile and Scrum in practice                                                                                                                              | none                                                                         |
-| 12   | Nov 16 to 20    | **Thu Nov 19, joint with ISBA 3720, in Hilton 115**                                 | Planning your sprint. Projects are assigned, teams form, and each project gets a faculty advisor                                                         | **Projects assigned, teams form (Thu Nov 19).** Dev environment and capstone repo, and stakeholder confirmation (Thu Nov 19)|
-| 13   | Nov 23 to 27    | no                                                                                  | Thanksgiving. Your sprint runs, but we do not meet                                                                                                       | none                                                                         |
-| 14   | Nov 30 to Dec 4 | **Thu Dec 3, stand-up, Hilton 106**                                                 | Running your sprint                                                                                                                                      | PRD draft (Thu Dec 3)                                                        |
-| 15   | Dec 7 to 11     | **Thu Dec 10, sprint review, Hilton 106**                                           | Closing your sprint, the retrospective, and handoff to ISBA 4797                                                                                         | Sprint review, capstone wiki, and final PRD (Thu Dec 10)                     |
+| 12   | Nov 16 to 20    | **Thu Nov 19, joint with ISBA 3720, in Hilton 115**                                 | Projects are assigned, teams form, and each project gets a faculty advisor. You start scoping your project                                               | **Projects assigned, teams form (Thu Nov 19).** Capstone repository created (Thu Nov 19) |
+| 13   | Nov 23 to 27    | no                                                                                  | Thanksgiving. Your team's work continues, but we do not meet                                                                                             | none                                                                         |
+| 14   | Nov 30 to Dec 4 | no. The Thu Dec 3 stand-up is written                                               | Meeting your stakeholder                                                                                                                                 | Written stand-up, committed to your capstone repository (Thu Dec 3)          |
+| 15   | Dec 7 to 11     | **Thu Dec 10, questions on your project, Hilton 106**                               | Finishing your scope, the retrospective, and handoff to ISBA 4797                                                                                        | Stakeholder confirmation, preliminary PRD, and recorded presentation (Thu Dec 10) |
 
 
 If you want to use an internship as your capstone, you have until Thu Oct 22 to
@@ -181,13 +184,12 @@ register.
 Fri Sep 4 is the last day to add or drop without a W. Fri Nov 13 is the last day
 to withdraw.
 
-**Sprint meetings** happen in our scheduled slot on Thu Nov 19, Thu Dec 3, and
-Thu Dec 10. Nov 19 is in Hilton 115, and the other two are in Hilton 106. Each team books a time within the slot for planning and
-the stand-up. The sprint review on Dec 10 works differently. Everyone stays for
-the whole slot, because the other teams are your audience. If your capstone is an
-internship you are working solo, you run your sprint on your own and meet me
-alone for planning and the stand-up, and you present at the review with everyone
-else.
+**Capstone sessions** happen in our scheduled slot on Thu Nov 19 and Thu Dec 10.
+Nov 19 is in Hilton 115, and Dec 10 is in Hilton 106. We don't meet on Thu Dec
+3. Each of you commits a written stand-up to your capstone repository that day.
+On Dec 10, I ask each team questions about its project, and any teammate may
+get one. You use the rest of the slot to finish what you hand in that day. If
+your capstone is an internship or your own project, you do the same work alone.
 
 **Your individual meeting** in week 2 is 15 minutes on Zoom. Submit your
 self-discovery interview first.
@@ -199,8 +201,8 @@ This is a 1-unit course. Under LMU's credit hour policy that is about 45 hours
 across the term: roughly 15 hours of instruction, counting the asynchronous
 modules and your synchronous sessions, and 30 hours of your own work.
 
-Across fifteen weeks that averages about 3 hours a week. Week 1's onboarding,
-the sprint weeks, and the last two weeks run heavier than the rest. Credit hour
+Across fifteen weeks that averages about 3 hours a week. Week 1's onboarding
+and the last four weeks run heavier than the rest. Credit hour
 policy:
 [https://academics.lmu.edu/aprc/lmucredithourpolicy/](https://academics.lmu.edu/aprc/lmucredithourpolicy/)
 
@@ -224,7 +226,7 @@ plan.
 
 ## Attendance
 
-Your scheduled commitments are the seven sessions in the schedule above and your
+Your scheduled commitments are the six sessions in the schedule above and your
 individual meeting in week 2.
 
 If you feel ill, stay home. Rest, and keep everyone else healthy.
@@ -248,21 +250,20 @@ Emergencies sit outside all of this. Serious illness, hospitalization, a death i
 the family: the three-absence count doesn't apply. Tell me when you're able and
 we'll work out a plan for the rest of the term.
 
-The sprint review on Thu Dec 10 is not reschedulable except in a genuine
-emergency, and missing it scores zero. Your audience is the other teams, and they
-are in that room for it once.
+The Thu Dec 10 session is not reschedulable except in a genuine emergency. It's
+the one time I ask every team about its project in person.
 
 ## How the course runs between sessions
 
 Course materials, modules, and due dates are in Brightspace. Your project work
 lives in your own repository.
 
-Between the seven sessions, Teams is the fastest way to reach me. Office hours
+Between sessions, Teams is the fastest way to reach me. Office hours
 are bookable at https://calendly.com/greg-lontok
 
 You get feedback on each deliverable within one week of its due date. Feedback
-on the sprint cycle and the sprint review comes verbally at the meeting, and in
-writing within one week.
+on your team process and recorded presentation comes in writing within one
+week.
 
 Engagement here looks like working through the module, showing up to the
 sessions you are committed to, and moving your proposal forward between them. If a deliverable does not arrive and I have not heard from
@@ -276,7 +277,7 @@ You are expected to use AI in this course, including an AI coding agent.
 
 What is assessed is your judgment, not just the output. Be ready to explain what
 you submitted, why you did it that way, and what you would do if a constraint
-changed. That is the whole point of the sprint review, and it is why work you
+changed. That is the whole point of the questions on Dec 10, and it is why work you
 cannot explain does not earn credit here.
 
 **ITS Service Desk:** 310-338-7777 or 213-736-1097, [servicedesk@lmu.edu](mailto:servicedesk@lmu.edu),

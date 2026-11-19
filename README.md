@@ -12,9 +12,9 @@ the first sprint of ISBA 4797.
 
 ## When we meet
 
-The course holds the Tuesday/Thursday 9:55 to 11:35 AM slot, and uses seven
+The course holds the Tuesday/Thursday 9:55 to 11:35 AM slot, and uses six
 Thursdays. Keep the time free and come on these dates. The Thu Nov 12 session
-is canceled.
+is canceled, and the Thu Dec 3 stand-up is written.
 
 | Date | What | Room |
 |---|---|---|
@@ -23,14 +23,23 @@ is canceled.
 | Thu Oct 1 | Discovery and stakeholder engagement | Hilton 106 |
 | Thu Oct 29 | Writing the PRD | Hilton 106 |
 | Thu Nov 12 | Canceled. Project briefs and team formation move to Thu Nov 19 | none |
-| Thu Nov 19 | Projects are assigned, teams form, and each project gets a faculty advisor. Sprint planning. Joint with ISBA 3720 | Hilton 115 |
-| Thu Dec 3 | Stand-up | Hilton 106 |
-| Thu Dec 10 | Sprint review and the retrospective | Hilton 106 |
+| Thu Nov 19 | Projects are assigned, teams form, and each project gets a faculty advisor. You start scoping. Joint with ISBA 3720 | Hilton 115 |
+| Thu Dec 3 | No meeting. Commit your written stand-up to your capstone repository | none |
+| Thu Dec 10 | Questions on your project, the retrospective, and handoff to ISBA 4797 | Hilton 106 |
 
 Plus one 15-minute individual meeting on Zoom in week 2, which you book.
 
 The second joint session with ISBA 3720 moved from Thu Nov 12 to Thu Nov 19, in
 Hilton 115.
+
+## November 19: Capstone kickoff
+
+You get your project, your team, and your faculty advisor. One driver per team
+creates a private repository from this template:
+https://github.com/LMU-ISBA/isba-capstone-starter-template
+
+Start with TASK-1 in `TASKS.md`. The template's README explains what the
+repository is for and what you hand in on Thu Dec 10.
 
 ## October 29: From discovery to a product brief
 
@@ -65,9 +74,9 @@ location announced in class. Downloading does not submit your work.
 | Tue Sep 22 | AI Dev Workflow Tutorial |
 | Thu Oct 22 | Internship secured |
 | Fri Nov 13 | Last day to withdraw |
-| Thu Nov 19 | Projects assigned and teams form |
-| Thu Nov 19 | Stakeholder confirmation |
-| Thu Dec 10 | Capstone wiki and final PRD |
+| Thu Nov 19 | Projects assigned, teams form, and capstone repository created |
+| Thu Dec 3 | Written stand-up |
+| Thu Dec 10 | Stakeholder confirmation, preliminary PRD, and recorded presentation |
 
 This repository is read-only for students. Your work lives in your own capstone
 project repository.
