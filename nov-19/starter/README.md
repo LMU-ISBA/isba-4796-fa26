@@ -56,7 +56,15 @@ If you don't see "Use this template," you aren't signed in.
 
 ## Team
 
-Replace each line.
+Fill in this section in your team's own repository, not in the template.
+
+1. Open `README.md` in the repository you cloned. This is the file you're
+   reading now.
+2. Type your answer after the colon on each line below.
+3. Save the file.
+4. Commit and push, with a message that starts with `TASK-1`.
+
+Leave "Recorded presentation link" empty until Dec 10.
 
 - Project:
 - Team members, full names:
@@ -93,7 +101,7 @@ These dates matter:
 - Thu Nov 19, in class: TASK-1, TASK-2, and TASK-3.
 - Two business days after your advisor says to send: TASK-4.
 - Thu Dec 3: TASK-5, your written stand-up.
-- Thu Dec 10: TASK-6, TASK-7, and TASK-8.
+- Thu Dec 10, 11:59 PM: TASK-6, TASK-7, and TASK-8.
 
 ## Working together in this repository
 
@@ -117,7 +125,7 @@ Pull the latest changes. Show me what I changed and explain what will be committ
 Wait for my review, then commit with a message that starts with the task ID and push to main.
 ```
 
-## What you hand in on Thu Dec 10
+## Due Thu, Dec 10, 11:59 PM
 
 Everything is in this repository. You don't upload anything else.
 
