@@ -20,4 +20,4 @@ Two or three sentences for each answer is enough.
 
 ## What will I work on next?
 
-## What's in my way?
+## Any obstacles?

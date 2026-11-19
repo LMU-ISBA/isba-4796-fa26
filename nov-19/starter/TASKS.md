@@ -124,12 +124,14 @@ Evidence:
 Owner: [Name] | Due: Thu Dec 10, 11:59 PM
 
 - [ ] `PRD.md` marks what's still unconfirmed.
-- [ ] Your team records a presentation of five minutes or less.
+- [ ] Your team records a presentation of five minutes or less. A Zoom cloud
+      recording works.
 - [ ] Every teammate speaks in the recording.
 - [ ] The recording covers the problem, your evidence, the scope, and what's
       still unconfirmed.
 - [ ] The link to the recording is in the Team section of `README.md`.
-- [ ] Your advisor can open the link.
+- [ ] Your advisor can open the link. If the recording has a passcode, put it
+      next to the link.
 - [ ] Each teammate has submitted the repository and recording links where
       their instructor asked for them.
 

@@ -143,7 +143,8 @@ The repository holds:
 - Your stakeholder's reply in `stakeholder/`, if you have it.
 - `TASKS.md` with every task in the right section and its evidence filled in.
 - Each teammate's stand-up in `standups/`.
-- The link to your recorded presentation in the Team section above.
+- The link to your recorded presentation in the Team section above. A Zoom
+  cloud recording works.
 
 ## Rules for this repository
 
