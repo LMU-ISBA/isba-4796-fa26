@@ -100,13 +100,14 @@ repository, created from the capstone starter template on Thu Nov 19, with your
 teammates and your faculty advisor added
 - Stakeholder confirmation - written confirmation from your stakeholder that you
 are serving the right person, solving the right problem, and measuring the
-right thing, due Thu Dec 10. If your stakeholder moves the conversation to
+right thing, due Thu Dec 10 at 11:59 PM. If your stakeholder moves the conversation to
 January, record that and show your attempts
 - Team process and recorded presentation - your team's TASKS.md kept current,
 your own stand-up committed to your capstone repository on Thu Dec 3, and a
-recorded presentation of five minutes or less in which every teammate speaks
+recorded presentation of five minutes or less in which every teammate speaks,
+due Thu Dec 10 at 11:59 PM
 - PRD - your initial product brief and the preliminary PRD it becomes, with your
-stakeholder notes, due Thu Dec 10
+stakeholder notes, due Thu Dec 10 at 11:59 PM
 
 The capstone wiki moves to ISBA 4797 in the spring, because we didn't cover how
 to build one. Its 50 points are now part of the PRD, so the total stays at 950.
@@ -164,7 +165,7 @@ C+ (77-79), C (73-76), C- (70-72), D (60-69), F (below 60).
 | 12   | Nov 16 to 20    | **Thu Nov 19, joint with ISBA 3720, in Hilton 115**                                 | Projects are assigned, teams form, and each project gets a faculty advisor. You start scoping your project                                               | **Projects assigned, teams form (Thu Nov 19).** Capstone repository created (Thu Nov 19) |
 | 13   | Nov 23 to 27    | no                                                                                  | Thanksgiving. Your team's work continues, but we do not meet                                                                                             | none                                                                         |
 | 14   | Nov 30 to Dec 4 | no. The Thu Dec 3 stand-up is written                                               | Meeting your stakeholder                                                                                                                                 | Written stand-up, committed to your capstone repository (Thu Dec 3)          |
-| 15   | Dec 7 to 11     | **Thu Dec 10, questions on your project, Hilton 106**                               | Finishing your scope, the retrospective, and handoff to ISBA 4797                                                                                        | Stakeholder confirmation, preliminary PRD, and recorded presentation (Thu Dec 10) |
+| 15   | Dec 7 to 11     | **Thu Dec 10, questions on your project, Hilton 106**                               | Finishing your scope, the retrospective, and handoff to ISBA 4797                                                                                        | Stakeholder confirmation, preliminary PRD, and recorded presentation (Thu Dec 10, 11:59 PM) |
 
 
 If you want to use an internship as your capstone, you have until Thu Oct 22 to
@@ -188,7 +189,7 @@ to withdraw.
 Nov 19 is in Hilton 115, and Dec 10 is in Hilton 106. We don't meet on Thu Dec
 3. Each of you commits a written stand-up to your capstone repository that day.
 On Dec 10, I ask each team questions about its project, and any teammate may
-get one. You use the rest of the slot to finish what you hand in that day. If
+get one. You use the rest of the slot to work on what's due at 11:59 PM that night. If
 your capstone is an internship or your own project, you do the same work alone.
 
 **Your individual meeting** in week 2 is 15 minutes on Zoom. Submit your

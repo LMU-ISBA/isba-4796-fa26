@@ -127,7 +127,15 @@ Wait for my review, then commit with a message that starts with the task ID and 
 
 ## Due Thu, Dec 10, 11:59 PM
 
-Everything is in this repository. You don't upload anything else.
+Everything is in this repository. Each student also submits links, so your
+instructor knows where your work is.
+
+- ISBA 4796 students submit in Brightspace: the repository link on Thu Nov 19,
+  the link to your own stand-up on Thu Dec 3, and the repository and recording
+  links on Thu Dec 10.
+- ISBA 3720 students follow Prof Mukherjee's instructions.
+
+The repository holds:
 
 - Your preliminary PRD in `PRD.md`, with unconfirmed claims marked.
 - Your interview notes in `stakeholder/`, or a note that the conversation moved

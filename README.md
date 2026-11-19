@@ -76,7 +76,7 @@ location announced in class. Downloading does not submit your work.
 | Fri Nov 13 | Last day to withdraw |
 | Thu Nov 19 | Projects assigned, teams form, and capstone repository created |
 | Thu Dec 3 | Written stand-up |
-| Thu Dec 10 | Stakeholder confirmation, preliminary PRD, and recorded presentation |
+| Thu Dec 10, 11:59 PM | Stakeholder confirmation, preliminary PRD, and recorded presentation |
 
 This repository is read-only for students. Your work lives in your own capstone
 project repository.

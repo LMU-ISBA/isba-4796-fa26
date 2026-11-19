@@ -130,6 +130,8 @@ Owner: [Name] | Due: Thu Dec 10, 11:59 PM
       still unconfirmed.
 - [ ] The link to the recording is in the Team section of `README.md`.
 - [ ] Your advisor can open the link.
+- [ ] Each teammate has submitted the repository and recording links where
+      their instructor asked for them.
 
 Evidence:
 
